@@ -1,0 +1,1172 @@
+<!DOCTYPE html>
+<html lang="pt-br" data-bs-theme="light">
+
+<head>
+    <!--required meta tags-->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Tags SEO -->
+    <!--twitter og-->
+    <meta name="twitter:site" content="@qd7">
+    <meta name="twitter:creator" content="@qd7">
+    <meta name="twitter:card" content="summary_large_image">
+    
+    <!--facebook og-->
+    <meta property="og:image:type" content="image/png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="600">
+    
+    <!--meta-->
+    <meta name="author" content="QD7">
+    
+    <meta name="robots" content="index, follow">
+    <meta property="publisher" content="QD7">
+    <meta property="og:locale" content="pt_BR">
+    <meta property="og:region" content="Brasil">
+    <meta property="og:author" content="QD7">
+    <meta property="og:site_name" content="QD7">
+    <meta name="twitter:card" content="summary_large_image">   
+    
+    <!-- Link da página acessada -->
+    <link rel="canonical" href="https://qd7.com.br/fortinet/">
+    <meta property="og:url" content="https://qd7.com.br/fortinet/">
+    
+    <!-- Title -->
+    <title>FortiGate 1800F | Melhor Preço - QD7</title>
+    <meta property="og:title" content="FortiGate 1800F | Melhor Preço - QD7">
+    <meta name="twitter:title" content="FortiGate 1800F | Melhor Preço - QD7">
+    
+    <!-- Description -->
+    <meta name="description" content="Como um dos mais recentes dispositivos da linha FortiGate, o 1800F representa a evolução contínua das soluções de segurança e SD-WAN da Fortinet, confira!">
+    <meta property="og:description" content="Como um dos mais recentes dispositivos da linha FortiGate, o 1800F representa a evolução contínua das soluções de segurança e SD-WAN da Fortinet, confira!">
+    <meta property="og:description" content="Como um dos mais recentes dispositivos da linha FortiGate, o 1800F representa a evolução contínua das soluções de segurança e SD-WAN da Fortinet, confira!">
+    <meta name="twitter:description" content="Como um dos mais recentes dispositivos da linha FortiGate, o 1800F representa a evolução contínua das soluções de segurança e SD-WAN da Fortinet, confira!">
+    
+    <!-- Link da imagem do banner do produto -->
+    <meta name="twitter:image" content="https://qd7.com.br/assets/img/fortigate-200f.png">
+    <meta property="og:image" content="https://qd7.com.br/assets/img/fortigate-200f.png">
+    <meta name="twitter:image" content="https://qd7.com.br/assets/img/fortigate-200f.png">
+    <meta property="og:url" content="https://qd7.com.br/assets/img/fortigate-200f.png">
+    <meta name="thumbnail" content="https://qd7.com.br/assets/img/fortigate-200f.png">
+    <meta property="og:image" content="https://qd7.com.br/assets/img/fortigate-200f.png">
+    <meta property="og:image:secure_url" content="https://qd7.com.br/assets/img/fortigate-200f.png">
+
+    <!--favicon icon-->
+    <link rel="icon" href="../../assets/img/favicon.png" type="image/png" sizes="16x16">
+
+    <!--build:css-->
+    <link rel="stylesheet" href="../../assets/css/main.css">
+    <!-- endbuild -->
+
+    <!--custom css start-->
+    <link rel="stylesheet" href="../../assets/css/custom.css">
+    <!--custom css end-->
+
+    <!-- Links WebComponents Start -->
+    <script defer src="../../assets/js/model.js" type="module"></script>
+    <!-- Links WebComponents End -->
+
+    <!-- Google tag (gtag.js) --> 
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-7LBRT1677Y"></script> 
+    <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-7LBRT1677Y'); </script>
+    
+    <script type="text/javascript" async src="https://d335luupugsy2.cloudfront.net/js/loader-scripts/1b6ecfa4-e77f-4899-9340-65b44f1edc77-loader.js"></script>
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-MGKFMTLB');</script>
+        <!-- End Google Tag Manager -->
+        
+</head>
+
+<body>
+        
+        <!-- Google Tag Manager (noscript) -->
+        <noscript><iframe src="
+        https://www.googletagmanager.com/ns.html?id=GTM-MGKFMTLB"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <!-- End Google Tag Manager (noscript) -->
+
+    <!--preloader start-->
+    <div id="preloader" class="bg-light-subtle">
+        <div class="container --preloader align-items-center justify-content-center col-12">
+            <img id="logoQD7" src="../../assets/img/logo-qd7.png" alt="logo" class="img-fluid col-8 col-lg-1">
+        </div>
+    </div>
+    <!--preloader end-->
+    <div class="main-wrapper">
+
+        <!--header start-->
+        <header class="main-header position-absolute w-100" id="defPage" page="fortinet/fortigate-1800f/">
+
+            <nav class="navbar navbar-expand-xl navbar-dark sticky-header z-10">
+
+                <div class="container d-flex align-items-center justify-content-lg-between position-relative">
+                    <a href="../" class="navbar-brand d-flex align-items-center mb-md-0 text-decoration-none col-2">
+                        <img id="logoQD7" src="../assets/img/logo-qd7.png" alt="logo" class="img-fluid logo-white col-10 col-lg-6" />
+                        <img id="logoQD7" src="../assets/img/logo-qd7.png" alt="logo" class="img-fluid logo-color col-10 col-lg-6" />
+                    </a>
+                    <a class="navbar-toggler position-absolute right-0 border-0 " href="#offcanvasWithBackdrop">
+                        <i class="flaticon-menu text-primary" data-bs-target="#offcanvasWithBackdrop" aria-controls="offcanvasWithBackdrop"
+                            data-bs-toggle="offcanvas" role="button">
+                        </i>
+                    </a>
+                    <div class="clearfix">
+                
+                    </div>
+
+                    <div class="collapse navbar-collapse justify-content-center">
+
+                        <ul class="nav col-12 col-md-auto justify-content-center main-menu">
+
+                            <li><a href="../" class="nav-link" id="home">Home</a></li>
+
+                            <li class="nav-item dropdown">
+
+                                <a class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown" aria-expanded="false">Soluções</a>
+
+                                <div class="dropdown-menu border-0 rounded-custom shadow py-0 bg-white width-fullhomepage-list-wrapper">
+
+                                    <div class="dropdown-grid rounded-custom homepage-dropdown">
+                                        
+                                        <div class="dropdown-grid-item bg-white radius-left-side">
+                                            <a id="deepInspection" href="../deep-inspection/" class="dropdown-link col-lg-12">
+                                                <span class="demo-list icon-services rounded text-white fw-bold">
+                                                    <img id="iconDeepInspection" src="../assets/img/icons/AiOutlineSchedule.png" alt="icon-schedule" class="icon-services">
+                                                </span>
+                                                <div class="dropdown-info">
+                                                    <div class="drop-title">Deep Inspection</div>
+                                                </div>
+                                            </a>
+                                            <a id="authentication" href="../authentication/" class="dropdown-link">
+                                                <span class="demo-list rounded text-white fw-bold">
+                                                    <img id="iconAuthentication" src="../assets/img/icons/AiOutlineUnlock.png" alt="icon-auth" class="icon-services">
+                                                </span>
+                                                <div class="dropdown-info">
+                                                    <div class="drop-title">Authentication</div>
+                                                    </p>    
+                                                </div>
+                                            </a>
+                                            <a id="check" href="../check" class="dropdown-link col-lg-12">
+                                                <span class="demo-list  rounded text-white fw-bold">
+                                                    <img id="iconCheck" src="../assets/img/icons/CgSearchFound.png" alt="icon-search" class="icon-services">
+                                                </span>
+                                                <div class="dropdown-info">
+                                                    <div class="drop-title">Check</div>
+                                                    <p>
+                                                    </p>
+                                                </div>
+                                            </a>
+                                            <a id="wan" href="../wan/" class="dropdown-link col-lg-12">
+                                                <span class="demo-list  rounded text-white fw-bold">
+                                                    <img id="iconWan" src="../assets/img/icons/CgMediaPodcast.png" alt="icon-Network" class="icon-services">
+                                                </span>
+                                                <div class="dropdown-info">
+                                                    <div class="drop-title">WAN</div>
+                                                </div>
+                                            </a>
+                                            <a id="analyser" href="../analyser-360/" class="dropdown-link col-lg-12">
+                                                <span class="demo-list rounded text-white fw-bold">                                                    
+                                                    <img id="iconAnalyser" src="../assets/img/icons/CgEye.png" alt="icon-eye" class="icon-services">
+                                                </span>
+                                                <div class="dropdown-info">
+                                                    <div class="drop-title">Analyser 360</div>
+                                                    </p>
+                                                </div>
+                                            </a>
+                                            <a id="sase" href="../sase+/" class="dropdown-link col-lg-12">
+                                                <span class="demo-list  rounded text-white fw-bold">
+                                                    <img id="iconSase" src="../assets/img/icons/CgListTree.png" alt="icon-proxy" class="icon-services">
+                                                </span>
+                                                <div class="dropdown-info">
+                                                    <div class="drop-title">Sase+</div>
+                                                </div>
+                                            </a>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </li>
+
+                            <li><a id="fortinet" href="../fortinet" class="nav-link">Fortinet</a></li>
+                            <li><a id="sobre" href="../#sobre" class="nav-link">Sobre</a></li>
+                            <li><a id="contato" href="../#contato" class="nav-link">Contato</a></li>
+                            <li><a id="news" href="https://blog.qd7.com.br" class="nav-link">News</a></li>
+
+                        </ul>
+                    </div>
+                    <div class="action-btns text-end me-5 me-lg-0 d-none d-md-block d-lg-block content-buttons-menu">
+                        <a href="javascript:void(0)" class="btn btn-link p-1 tt-theme-toggle">
+                            <div class="tt-theme-light" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-title="Light"><i class="flaticon-sun-1 fs-lg"></i></div>
+                            <div class="tt-theme-dark" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-title="Dark"><i class="flaticon-moon-1 fs-lg"></i></div>
+                        </a> 
+                        
+                        <a id="translate" href="../en/sase+/" class="btn-translate btn btn-link" style=" margin:0% 0% 0% 0% !important; padding:0% !important;">EN</a>
+                    
+                        <a id="linkApiWhatsApp" href="https://api.whatsapp.com/send?phone=5517997914198&text=Time%20qd7%20agradece%20o%20seu%20contato,%20em%20breve%20retornaremos%20sua%20mensagem" class="btn btn-link" style=" margin:0% 0% 2% 0% !important; padding:0% !important;"><i class="fab fa-whatsapp" data-bs-placement="bottom" data-bs-toggle="tooltip" data-bs-title="WhatsApp" style="font-size: 1.25rem;"></i></a>
+                        <a id="linkInstagram" href="https://www.instagram.com/qd7.cybersecurity" class="btn btn-link" style=" margin:0% 0% 2% 0% !important; padding:0% !important;"><i class="fab fa-instagram" data-bs-toggle="tooltip" data-bs-placement="bottom" data-bs-title="Instagram" style="font-size: 1.25rem;"></i></a>
+                    
+                    </div>
+                </div>
+            </nav>
+
+
+            <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasWithBackdrop">
+                <div class="offcanvas-header d-flex align-items-center mt-4">
+                    <a href="../" class="d-flex align-items-center mb-md-0 text-decoration-none">
+                        <img id="logoQD7" src="../assets/img/logo-qd7.png" alt="logo" class="img-fluid logo-color col-4 col-lg-3" />
+                    </a>
+                    <button type="button" class="close-btn text-danger" data-bs-dismiss="offcanvas" aria-label="Close">
+                        <i class="flaticon-cancel"></i>
+                    </button>
+                </div>
+                <div class="offcanvas-body z-10">
+                    <ul class="nav col-12 col-md-auto justify-content-center main-menu">
+                        <li><a id="home" href="../" class="nav-link">Home</a></li>                    
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                Soluções
+                            </a>
+                            <div class="dropdown-menu border-0 rounded-custom shadow py-0 bg-white homepage-list-wrapper">
+                                <div class="dropdown-grid rounded-custom width-full homepage-dropdown">
+                                    <div class="dropdown-grid-item">
+                                        <a id="check" href="../check" class="dropdown-link col-12">
+                                            <div class="dropdown-info">
+                                                <div class="drop-title">Check</div>
+                                            </div>
+                                        </a>
+                                        <a id="deepInspection" href="../deep-inspection/" class="dropdown-link col-12">
+                                            <div class="dropdown-info">
+                                                <div class="drop-title">Deep Inspection</div>
+                                                </p>
+                                            </div>
+                                        </a>
+                                        <a id="analyser" href="../analyser-360/" class="dropdown-link col-12">
+                                            <div class="dropdown-info">
+                                                <div class="drop-title">Analyser-360</div>
+
+                                            </div>
+                                        </a>
+                                        <a id="sase" href="../sase+/" class="dropdown-link col-12">
+                                            <div class="dropdown-info">
+                                                <div class="drop-title">Sase+</div>
+                                            </div>
+                                        </a>
+                                        <a id="authentication" href="../authentication/" class="dropdown-link col-12">
+                                            <div class="dropdown-info">
+                                                <div class="drop-title">Authentication</div>
+                                                </p>
+                                            </div>
+                                        </a>
+                                        <a id="wan" href="../wan/" class="dropdown-link col-12">
+                                            <div class="dropdown-info">
+                                                <div class="drop-title">WAN</div>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li><a id="fortinet" href="../fortinet" class="nav-link">Fortinet</a></li>
+                        <li><a id="sobre" href="../#sobre" class="nav-link">Sobre</a></li>    
+                        <li><a id="contato" href="../#contato" class="nav-link">Contato</a></li>
+                        <li><a id="news" href="https://blog.qd7.com.br" class="nav-link">News</a></li>
+                        <div class="action-btns text-start me-5 me-lg-0 d-md-block d-lg-block content-buttons-menu">
+                            <a href="javascript:void(0)" class="btn btn-link p-1 tt-theme-toggle">
+                                <div class="tt-theme-light" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-title="Light"><i class="flaticon-sun-1 fs-lg"></i></div>
+                                <div class="tt-theme-dark" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-title="Dark"><i class="flaticon-moon-1 fs-lg"></i></div>
+                            </a> 
+                            
+                            <a id="translate" href="../en/sase+/" class="btn-translate btn btn-link" style=" margin:0% 0% 0% 0% !important; padding:0% !important; color:grey;">EN</a>
+                        
+                            <a id="linkApiWhatsApp" href="https://api.whatsapp.com/send?phone=5517997914198&text=Time%20qd7%20agradece%20o%20seu%20contato,%20em%20breve%20retornaremos%20sua%20mensagem" class="btn btn-link" style=" margin:0% 0% 2% 0% !important; padding:0% !important;"><i class="fab fa-whatsapp" data-bs-placement="bottom" data-bs-toggle="tooltip" data-bs-title="WhatsApp" style="font-size: 1.25rem;"></i></a>
+                            <a id="linkInstagram" href="https://www.instagram.com/qd7.cybersecurity" class="btn btn-link" style=" margin:0% 0% 2% 0% !important; padding:0% !important;"><i class="fab fa-instagram" data-bs-toggle="tooltip" data-bs-placement="bottom" data-bs-title="Instagram" style="font-size: 1.25rem;"></i></a>
+                        
+                        </div>
+                    </ul>
+                </div>
+            </div>
+        </header>
+        <!--header end-->
+
+        <!-- Hero Start  -->
+        <section class="hero-section pt-5 mt-5">
+            <div class="container">
+                <div class="row align-items-center main-content">
+                    <div class="col-12">
+                        <div class="row mt-5 mt-lg-0 mt-xl-0 align-items-center justify-content-between">
+                            <div class="text-center col-lg-6 col-12">
+                                <img src="../../assets/img/fortigate/fortigate-200f.png" alt="fotigate200f" class="img-fluid pb-3 border-bottom">
+                                
+                                <ol class="col-12 text-center row justify-content-center">
+                                    <p class="d-grid col-lg-6 col-10 row align-items-center mt-3 mb-3 justify-content-center g-row-5">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-intersect" viewBox="0 0 16 16">
+                                            <path d="M0 2a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v2h2a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2v-2H2a2 2 0 0 1-2-2zm5 10v2a1 1 0 0 0 1 1h8a1 1 0 0 0 1-1V6a1 1 0 0 0-1-1h-2v5a2 2 0 0 1-2 2zm6-8V2a1 1 0 0 0-1-1H2a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h2V6a2 2 0 0 1 2-2z"/>
+                                        </svg>
+                                        Slots GE RJ45/ SFP28/ SFP+/ SFP/ QSFP+
+                                    </p>
+                                    <p class="d-grid col-lg-6 col-10 row align-items-center mt-3 mb-3 justify-content-center g-row-5">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-aspect-ratio" viewBox="0 0 16 16">
+                                            <path d="M0 3.5A1.5 1.5 0 0 1 1.5 2h13A1.5 1.5 0 0 1 16 3.5v9a1.5 1.5 0 0 1-1.5 1.5h-13A1.5 1.5 0 0 1 0 12.5zM1.5 3a.5.5 0 0 0-.5.5v9a.5.5 0 0 0 .5.5h13a.5.5 0 0 0 .5-.5v-9a.5.5 0 0 0-.5-.5z"/>
+                                            <path d="M2 4.5a.5.5 0 0 1 .5-.5h3a.5.5 0 0 1 0 1H3v2.5a.5.5 0 0 1-1 0zm12 7a.5.5 0 0 1-.5.5h-3a.5.5 0 0 1 0-1H13V8.5a.5.5 0 0 1 1 0z"/>
+                                        </svg>
+                                        IPS 22 Gbps 
+                                    </p>
+                                    <p class="d-grid col-lg-6 col-10 row align-items-center mt-3 mb-3 justify-content-center g-row-5">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-bricks" viewBox="0 0 16 16">
+                                            <path d="M0 .5A.5.5 0 0 1 .5 0h15a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-.5.5H14v2h1.5a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-.5.5H14v2h1.5a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-.5.5H.5a.5.5 0 0 1-.5-.5v-3a.5.5 0 0 1 .5-.5H2v-2H.5a.5.5 0 0 1-.5-.5v-3A.5.5 0 0 1 .5 6H2V4H.5a.5.5 0 0 1-.5-.5zM3 4v2h4.5V4zm5.5 0v2H13V4zM3 10v2h4.5v-2zm5.5 0v2H13v-2zM1 1v2h3.5V1zm4.5 0v2h5V1zm6 0v2H15V1zM1 7v2h3.5V7zm4.5 0v2h5V7zm6 0v2H15V7zM1 13v2h3.5v-2zm4.5 0v2h5v-2zm6 0v2H15v-2z"/>
+                                        </svg>
+                                        NGFW 17 Gbps
+                                    </p>
+                                    <p class="d-grid col-lg-6 col-10 row align-items-center mt-3 mb-3 justify-content-center g-row-5">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-shield" viewBox="0 0 16 16">
+                                            <path d="M5.338 1.59a61 61 0 0 0-2.837.856.48.48 0 0 0-.328.39c-.554 4.157.726 7.19 2.253 9.188a10.7 10.7 0 0 0 2.287 2.233c.346.244.652.42.893.533q.18.085.293.118a1 1 0 0 0 .101.025 1 1 0 0 0 .1-.025q.114-.034.294-.118c.24-.113.547-.29.893-.533a10.7 10.7 0 0 0 2.287-2.233c1.527-1.997 2.807-5.031 2.253-9.188a.48.48 0 0 0-.328-.39c-.651-.213-1.75-.56-2.837-.855C9.552 1.29 8.531 1.067 8 1.067c-.53 0-1.552.223-2.662.524zM5.072.56C6.157.265 7.31 0 8 0s1.843.265 2.928.56c1.11.3 2.229.655 2.887.87a1.54 1.54 0 0 1 1.044 1.262c.596 4.477-.787 7.795-2.465 9.99a11.8 11.8 0 0 1-2.517 2.453 7 7 0 0 1-1.048.625c-.28.132-.581.24-.829.24s-.548-.108-.829-.24a7 7 0 0 1-1.048-.625 11.8 11.8 0 0 1-2.517-2.453C1.928 10.487.545 7.169 1.141 2.692A1.54 1.54 0 0 1 2.185 1.43 63 63 0 0 1 5.072.56"/>
+                                        </svg>
+                                        Proteção de 15 Gbps
+                                    </p>
+                                </ol>
+                            </div>
+                            <div class="col-lg-6 col-12 p-4">
+                                <h1 class="text-primary fw-normal">Fortigate 1800F</h1>
+                                <h2 class="fw-normal fs-4 pb-3">Alto desempenho com flexibilidade</h2>
+
+                                <p class="text-left">
+                                    A série FortiGate 1800F permite que as organizações criem
+                                    redes orientadas para a segurança, que podem tecer a segurança profundamente
+                                    no seu centro de dados e em toda a sua arquitetura de TI híbrida para
+                                    proteger qualquer borda em qualquer escala.
+                                </p>
+                                
+                                <div class="action-btn mt-1 align-items-center d-block d-sm-flex d-lg-flex d-md-flex">
+                                    <a href="https://wa.me/5517997914198?text=Ol%C3%A1%2C+gostaria+de+saber+mais+sobre+o+produto+FortiGate-1800F" class="btn btn-primary me-3">Compre Agora</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="text-center position-relative d-none d-lg-block">
+                            <a href="#sobre" class="text-primary">
+                                <i class="fas fa-arrow-down"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Hero End -->
+
+        <!-- Content Start -->
+        <section class="container">
+            <div class="mb-2 p-lg-5 p-3 justify-content-center align-items-center">
+                <h2 class="fs-2 fw-normal pt-3 pb-3">
+                    Descrição
+                </h2>
+
+                <p>
+                    Alimentado por um rico conjunto de serviços de FortiGuard baseados em IA/ML e um tecido de segurança integrado
+                    Plataforma, a série FortiGate 1800F oferece ameaça coordenada, automatizada e de ponta a ponta
+                    proteção em todos os casos de uso.
+                </p>
+                <p>
+                    A primeira aplicação integrada de acesso à rede Zero Trust (ZTNA) integrada dentro de um
+                    Solução NGFW, o FortiGate 1800f controla, verifica e facilita o acesso ao usuário a
+                    Aplicativos que fornecem convergência consistente com uma experiência perfeita do usuário.
+                </p>
+
+                <p>
+                    <span class="fw-bold">
+                        A QD7 é uma revendedora Fortinet autorizada, entre em contato conosco agora mesmo e solicite uma cotação do melhor Firewall do mercado!
+                    </span>
+                </p>
+
+                <div class="action-btn mt-3 align-items-center d-block d-sm-flex d-lg-flex d-md-flex">
+                    <a href="https://wa.me/5517997914198?text=Ol%C3%A1%2C+gostaria+de+saber+mais+sobre+o+produto+FortiGate-1800F" class="btn btn-primary me-3">Compre Agora</a>
+                </div>
+            </div>
+
+            <div class="mb-5 p-lg-5 p-3 justify-content-center align-items-center text-center bg-black border-radius rounded">
+                <h2 class="fw-normal pt-1 pb-3 text-white">
+                    Segurança de IA/ML e visibilidade profunda         
+                </h2>
+
+                <li class="col-12 row align-items-center justify-content-center text-center">
+                    <div class="row col-lg-4 col-12 g-row-3 mt-2 mb-2">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="#fff" class="bi bi-hdd-network" viewBox="0 0 16 16">
+                            <path d="M4.5 5a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1M3 4.5a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0"/>
+                            <path d="M0 4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v1a2 2 0 0 1-2 2H8.5v3a1.5 1.5 0 0 1 1.5 1.5h5.5a.5.5 0 0 1 0 1H10A1.5 1.5 0 0 1 8.5 14h-1A1.5 1.5 0 0 1 6 12.5H.5a.5.5 0 0 1 0-1H6A1.5 1.5 0 0 1 7.5 10V7H2a2 2 0 0 1-2-2zm1 0v1a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V4a1 1 0 0 0-1-1H2a1 1 0 0 0-1 1m6 7.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5"/>
+                        </svg>
+                        Quadrante Mágico da Gartner, líder em Firewalls de Rede e Infraestrutura WAN.               
+                    </div>
+
+                    <div class="row col-lg-4 col-12 g-row-3 mt-2 mb-2">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="#fff" class="bi bi-app-indicator" viewBox="0 0 16 16">
+                            <path d="M5.5 2A3.5 3.5 0 0 0 2 5.5v5A3.5 3.5 0 0 0 5.5 14h5a3.5 3.5 0 0 0 3.5-3.5V8a.5.5 0 0 1 1 0v2.5a4.5 4.5 0 0 1-4.5 4.5h-5A4.5 4.5 0 0 1 1 10.5v-5A4.5 4.5 0 0 1 5.5 1H8a.5.5 0 0 1 0 1z"/>
+                            <path d="M16 3a3 3 0 1 1-6 0 3 3 0 0 1 6 0"/>
+                        </svg>
+                        Rede orientada à segurança, FortiOS oferece uma rede convergente e segura.
+                    </div>
+
+                    <div class="row col-lg-4 col-12 g-row-3 mt-2 mb-2">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="#fff" class="bi bi-cpu" viewBox="0 0 16 16">
+                            <path d="M5 0a.5.5 0 0 1 .5.5V2h1V.5a.5.5 0 0 1 1 0V2h1V.5a.5.5 0 0 1 1 0V2h1V.5a.5.5 0 0 1 1 0V2A2.5 2.5 0 0 1 14 4.5h1.5a.5.5 0 0 1 0 1H14v1h1.5a.5.5 0 0 1 0 1H14v1h1.5a.5.5 0 0 1 0 1H14v1h1.5a.5.5 0 0 1 0 1H14a2.5 2.5 0 0 1-2.5 2.5v1.5a.5.5 0 0 1-1 0V14h-1v1.5a.5.5 0 0 1-1 0V14h-1v1.5a.5.5 0 0 1-1 0V14h-1v1.5a.5.5 0 0 1-1 0V14A2.5 2.5 0 0 1 2 11.5H.5a.5.5 0 0 1 0-1H2v-1H.5a.5.5 0 0 1 0-1H2v-1H.5a.5.5 0 0 1 0-1H2v-1H.5a.5.5 0 0 1 0-1H2A2.5 2.5 0 0 1 4.5 2V.5A.5.5 0 0 1 5 0m-.5 3A1.5 1.5 0 0 0 3 4.5v7A1.5 1.5 0 0 0 4.5 13h7a1.5 1.5 0 0 0 1.5-1.5v-7A1.5 1.5 0 0 0 11.5 3zM5 6.5A1.5 1.5 0 0 1 6.5 5h3A1.5 1.5 0 0 1 11 6.5v3A1.5 1.5 0 0 1 9.5 11h-3A1.5 1.5 0 0 1 5 9.5zM6.5 6a.5.5 0 0 0-.5.5v3a.5.5 0 0 0 .5.5h3a.5.5 0 0 0 .5-.5v-3a.5.5 0 0 0-.5-.5z"/>
+                        </svg>
+                        Desempenho patenteado com FortiNet / Processadores SPU/vSPU.                    
+                    </div>
+
+                    <div class="row col-lg-4 col-12 g-row-3 mt-2 mb-2">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="#fff" class="bi bi-robot" viewBox="0 0 16 16">
+                            <path d="M6 12.5a.5.5 0 0 1 .5-.5h3a.5.5 0 0 1 0 1h-3a.5.5 0 0 1-.5-.5M3 8.062C3 6.76 4.235 5.765 5.53 5.886a26.6 26.6 0 0 0 4.94 0C11.765 5.765 13 6.76 13 8.062v1.157a.93.93 0 0 1-.765.935c-.845.147-2.34.346-4.235.346s-3.39-.2-4.235-.346A.93.93 0 0 1 3 9.219zm4.542-.827a.25.25 0 0 0-.217.068l-.92.9a25 25 0 0 1-1.871-.183.25.25 0 0 0-.068.495c.55.076 1.232.149 2.02.193a.25.25 0 0 0 .189-.071l.754-.736.847 1.71a.25.25 0 0 0 .404.062l.932-.97a25 25 0 0 0 1.922-.188.25.25 0 0 0-.068-.495c-.538.074-1.207.145-1.98.189a.25.25 0 0 0-.166.076l-.754.785-.842-1.7a.25.25 0 0 0-.182-.135"/>
+                            <path d="M8.5 1.866a1 1 0 1 0-1 0V3h-2A4.5 4.5 0 0 0 1 7.5V8a1 1 0 0 0-1 1v2a1 1 0 0 0 1 1v1a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-1a1 1 0 0 0 1-1V9a1 1 0 0 0-1-1v-.5A4.5 4.5 0 0 0 10.5 3h-2zM14 7.5V13a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V7.5A3.5 3.5 0 0 1 5.5 4h5A3.5 3.5 0 0 1 14 7.5"/>
+                        </svg>
+                        Segurança Empresarial com IA / Serviços FortiGuard com tecnologia de ML.
+                    </div>
+
+                    <div class="row col-lg-4 col-12 g-row-3 mt-2 mb-2">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="#fff" class="bi bi-binoculars" viewBox="0 0 16 16">
+                            <path d="M3 2.5A1.5 1.5 0 0 1 4.5 1h1A1.5 1.5 0 0 1 7 2.5V5h2V2.5A1.5 1.5 0 0 1 10.5 1h1A1.5 1.5 0 0 1 13 2.5v2.382a.5.5 0 0 0 .276.447l.895.447A1.5 1.5 0 0 1 15 7.118V14.5a1.5 1.5 0 0 1-1.5 1.5h-3A1.5 1.5 0 0 1 9 14.5v-3a.5.5 0 0 1 .146-.354l.854-.853V9.5a.5.5 0 0 0-.5-.5h-3a.5.5 0 0 0-.5.5v.793l.854.853A.5.5 0 0 1 7 11.5v3A1.5 1.5 0 0 1 5.5 16h-3A1.5 1.5 0 0 1 1 14.5V7.118a1.5 1.5 0 0 1 .83-1.342l.894-.447A.5.5 0 0 0 3 4.882zM4.5 2a.5.5 0 0 0-.5.5V3h2v-.5a.5.5 0 0 0-.5-.5zM6 4H4v.882a1.5 1.5 0 0 1-.83 1.342l-.894.447A.5.5 0 0 0 2 7.118V13h4v-1.293l-.854-.853A.5.5 0 0 1 5 10.5v-1A1.5 1.5 0 0 1 6.5 8h3A1.5 1.5 0 0 1 11 9.5v1a.5.5 0 0 1-.146.354l-.854.853V13h4V7.118a.5.5 0 0 0-.276-.447l-.895-.447A1.5 1.5 0 0 1 12 4.882V4h-2v1.5a.5.5 0 0 1-.5.5h-3a.5.5 0 0 1-.5-.5zm4-1h2v-.5a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5zm4 11h-4v.5a.5.5 0 0 0 .5.5h3a.5.5 0 0 0 .5-.5zm-8 0H2v.5a.5.5 0 0 0 .5.5h3a.5.5 0 0 0 .5-.5z"/>
+                        </svg>
+                        Checagem profunda: aplicativos, usuários, e dispositivos + firewall tradicional.
+                    </div>
+                </li>
+                
+
+            </div>
+
+            <div class="mb-5 p-lg-5 p-3 justify-content-center align-items-center text-center">
+                <h2 class="fw-normal pt-1 pb-3">
+                    FortiOS em todos os lugares      
+                </h2>
+
+                <p class="">
+                    O FortiOS permite a convergência de redes e segurança de alto desempenho em todo o
+                    Tecido de segurança Fortinet. Como pode ser implantado em qualquer lugar, ele oferece resultados consistentes e
+                    postura de segurança baseada no contexto em ambientes de rede, endpoint e multinuvem.
+                </p>
+                
+                <div class="text-center mt-3 mb-4">
+                    <img src="../../assets/img/fortigate/fortiOS.png" alt="fortiOS" class="img-fluid">
+                </div>
+
+                <li class="list-group">
+                    <p class="">
+                        Visualizadores interativos de detalhamento e topologia que exibem o status em tempo real; 
+                        <br>
+                        Correção ao clicar que fornece proteção precisa e rápida contra ameaças e abusos; 
+                        <br>
+                        Sistema exclusivo de pontuação de ameaças correlaciona ameaças ponderadas com usuários para priorizar investigações.
+                    </p>
+                </li>
+
+                <div class="action-btn mt-1 align-items-center row d-block text-center mt-2">
+                    <a href="https://wa.me/5517997914198?text=Ol%C3%A1%2C+gostaria+de+saber+mais+sobre+o+produto+FortiGate-1800F" class="btn btn-primary text-primary me-3 col-12 col-lg-3 m-auto">Compre Agora</a>
+                </div>
+            </div>
+
+            <div class="mb-5 p-lg-5 p-3 justify-content-center align-items-center text-center border-radius rounded">
+                <h2 class="fw-normal pt-1 pb-4">
+                    Serviços FortiGuard        
+                </h2>
+
+                <li class="col-12 row align-items-center justify-content-between text-center">
+                    <div class="row col-lg-2 col-12 mt-2 mb-2 justify-content-center gap-1">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="#000" class="bi bi-archive-fill" viewBox="0 0 16 16">
+                            <path d="M12.643 15C13.979 15 15 13.845 15 12.5V5H1v7.5C1 13.845 2.021 15 3.357 15zM5.5 7h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1 0-1M.8 1a.8.8 0 0 0-.8.8V3a.8.8 0 0 0 .8.8h14.4A.8.8 0 0 0 16 3V1.8a.8.8 0 0 0-.8-.8z"/>                          
+                        </svg>
+                        Segurança de redes e ficheiros               
+                    </div>
+
+                    <div class="row col-lg-2 col-12 mt-2 mb-2 justify-content-center gap-1">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="#000" class="bi bi-shield-lock-fill" viewBox="0 0 16 16">
+                            <path fill-rule="evenodd" d="M8 0c-.69 0-1.843.265-2.928.56-1.11.3-2.229.655-2.887.87a1.54 1.54 0 0 0-1.044 1.262c-.596 4.477.787 7.795 2.465 9.99a11.8 11.8 0 0 0 2.517 2.453c.386.273.744.482 1.048.625.28.132.581.24.829.24s.548-.108.829-.24a7 7 0 0 0 1.048-.625 11.8 11.8 0 0 0 2.517-2.453c1.678-2.195 3.061-5.513 2.465-9.99a1.54 1.54 0 0 0-1.044-1.263 63 63 0 0 0-2.887-.87C9.843.266 8.69 0 8 0m0 5a1.5 1.5 0 0 1 .5 2.915l.385 1.99a.5.5 0 0 1-.491.595h-.788a.5.5 0 0 1-.49-.595l.384-1.99A1.5 1.5 0 0 1 8 5"/>
+                          </svg>
+                        Segurança Web / DNS
+                    </div>
+
+                    <div class="row col-lg-2 col-12 mt-2 mb-2 justify-content-center gap-1">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="#000" class="bi bi-bar-chart-steps" viewBox="0 0 16 16">
+                            <path d="M.5 0a.5.5 0 0 1 .5.5v15a.5.5 0 0 1-1 0V.5A.5.5 0 0 1 .5 0M2 1.5a.5.5 0 0 1 .5-.5h4a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-4a.5.5 0 0 1-.5-.5zm2 4a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-7a.5.5 0 0 1-.5-.5zm2 4a.5.5 0 0 1 .5-.5h6a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-6a.5.5 0 0 1-.5-.5zm2 4a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-7a.5.5 0 0 1-.5-.5z"/>
+                          </svg>
+                        SaaS e segurança de dados                  
+                    </div>
+
+                    <div class="row col-lg-2 col-12 mt-2 mb-2 justify-content-center gap-1">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="#000" class="bi bi-0-circle-fill" viewBox="0 0 16 16">
+                            <path d="M8 4.951c-1.008 0-1.629 1.09-1.629 2.895v.31c0 1.81.627 2.895 1.629 2.895s1.623-1.09 1.623-2.895v-.31c0-1.8-.621-2.895-1.623-2.895"/>
+                            <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0m-8.012 4.158c1.858 0 2.96-1.582 2.96-3.99V7.84c0-2.426-1.079-3.996-2.936-3.996-1.864 0-2.965 1.588-2.965 3.996v.328c0 2.42 1.09 3.99 2.941 3.99"/>
+                          </svg>
+                          Prevenção contra o dia zero
+                    </div>
+
+                    <div class="row col-lg-2 col-12 g-row-3 mt-2 mb-2 justify-content-center gap-1">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="#000" class="bi bi-check-circle-fill" viewBox="0 0 16 16">
+                            <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0m-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z"/>
+                          </svg>
+                        Serviços com segurança OT
+                    </div>
+                </li>
+                
+
+            </div>
+
+            <div class=" p-lg-5 p-3 justify-content-center align-items-center text-center">
+                <h2 class="fw-normal pt-1">
+                    Garanta uma vantagem em <span class="fw-semibold">qualquer escala.</span>
+                </h2>
+                <h4 class="fw-light pb-3">                    
+                    Desenvolvido pela Unidade de Processamento de Segurança (SPU)
+                </h4>
+                <p class="mb-5">
+                    Os firewalls tradicionais não podem proteger contra as ameaças atuais baseadas em conteúdo e conexão
+                    porque eles dependem de hardware pronto para uso e CPUs de uso geral, causando um perigo perigoso
+                    lacuna de desempenho. Os processadores SPU personalizados da Fortinet oferecem a potência que você precisa – até
+                    520 Gbps — para detectar ameaças emergentes e bloquear conteúdo malicioso, garantindo ao mesmo tempo sua rede
+                    solução de segurança não se torne um gargalo de desempenho.
+                </p>
+
+                <div class="row col-12 align-items-center justify-content-center">
+                    <h3 class="mt-3 fs-3 text-primary mb-5 fw-normal">Vantagem ASIC</h3>
+                    <div class="row col-12 text-center align-items-center justify-content-center gap-5">
+                        <div class="row col-lg-6 col-12 border-bottom p-2 rounded mb-3 shadow">
+                            <div clas="p-5 row">
+                                <img src="../../assets/img/fortigate/NP6X.png" alt="image 6XLite" class="img-fluid rounded-3 m-5 col-6">
+                            </div>
+                            <h4 class="fs-5">Processador de rede 7 NP7</h4>
+                            <ul class="gap-5">
+                                <li class="d-grid justi align text-center row g-row-6 p-3">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="black" class="bi bi-distribute-horizontal" viewBox="0 0 16 16">
+                                        <path fill-rule="evenodd" d="M14.5 1a.5.5 0 0 0-.5.5v13a.5.5 0 0 0 1 0v-13a.5.5 0 0 0-.5-.5m-13 0a.5.5 0 0 0-.5.5v13a.5.5 0 0 0 1 0v-13a.5.5 0 0 0-.5-.5"/>
+                                        <path d="M6 13a1 1 0 0 0 1 1h2a1 1 0 0 0 1-1V3a1 1 0 0 0-1-1H7a1 1 0 0 0-1 1z"/>
+                                      </svg>
+                                    Operação do processador de rede SPU NP7 em linha com sistema FortiOS
+                                </li>
+                                <li class="d-grid justi align text-center row g-row-6 p-3">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="black" class="bi bi-sliders2-vertical" viewBox="0 0 16 16">
+                                        <path fill-rule="evenodd" d="M0 10.5a.5.5 0 0 0 .5.5h4a.5.5 0 0 0 0-1H3V1.5a.5.5 0 0 0-1 0V10H.5a.5.5 0 0 0-.5.5M2.5 12a.5.5 0 0 0-.5.5v2a.5.5 0 0 0 1 0v-2a.5.5 0 0 0-.5-.5m3-6.5A.5.5 0 0 0 6 6h1.5v8.5a.5.5 0 0 0 1 0V6H10a.5.5 0 0 0 0-1H6a.5.5 0 0 0-.5.5M8 1a.5.5 0 0 0-.5.5v2a.5.5 0 0 0 1 0v-2A.5.5 0 0 0 8 1m3 9.5a.5.5 0 0 0 .5.5h4a.5.5 0 0 0 0-1H14V1.5a.5.5 0 0 0-1 0V10h-1.5a.5.5 0 0 0-.5.5m2.5 1.5a.5.5 0 0 0-.5.5v2a.5.5 0 0 0 1 0v-2a.5.5 0 0 0-.5-.5"/>
+                                      </svg>
+                                    Firewall em hiperescala + Configuração de sessão acelerada + Latência ultrabaixa
+                                </li>
+                                <li class="d-grid justi align text-center row g-row-6 p-3">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="black" class="bi bi-award" viewBox="0 0 16 16">
+                                        <path d="M9.669.864 8 0 6.331.864l-1.858.282-.842 1.68-1.337 1.32L2.6 6l-.306 1.854 1.337 1.32.842 1.68 1.858.282L8 12l1.669-.864 1.858-.282.842-1.68 1.337-1.32L13.4 6l.306-1.854-1.337-1.32-.842-1.68zm1.196 1.193.684 1.365 1.086 1.072L12.387 6l.248 1.506-1.086 1.072-.684 1.365-1.51.229L8 10.874l-1.355-.702-1.51-.229-.684-1.365-1.086-1.072L3.614 6l-.25-1.506 1.087-1.072.684-1.365 1.51-.229L8 1.126l1.356.702z"/>
+                                        <path d="M4 11.794V16l4-1 4 1v-4.206l-2.018.306L8 13.126 6.018 12.1z"/>
+                                      </svg>
+                                    Desempenho líder para VPN + Terminação VXLAN + Registo de hardware + Fluxos de elefante
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="row col-lg-6 col-12 border-bottom p-2 rounded mb-3 shadow">
+                            <div clas="p-5">
+                                <img src="../../assets/img/fortigate/CP9.png" alt="image 6XLite" class="img-fluid rounded-3 m-5 col-6">
+                            </div>
+                            <h4 class="fs-5">Processador de Conteúdos 9 CP9</h4>
+                            <ul class="gap-5">
+                                <li class="d-grid justi align text-center row g-row-6 p-3">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="black" class="bi bi-key-fill" viewBox="0 0 16 16">
+                                        <path d="M3.5 11.5a3.5 3.5 0 1 1 3.163-5H14L15.5 8 14 9.5l-1-1-1 1-1-1-1 1-1-1-1 1H6.663a3.5 3.5 0 0 1-3.163 2M2.5 9a1 1 0 1 0 0-2 1 1 0 0 0 0 2"/>
+                                    </svg>
+                                    Fortinet 9 CP9, acelera a descriptografia e a segurança SSL
+                                    (incluindo TLS 1.3) de descriptografia 
+                                </li>
+                                <li class="d-grid justi align text-center row g-row-6 p-3">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="black" class="bi bi-eye" viewBox="0 0 16 16">
+                                        <path d="M16 8s-3-5.5-8-5.5S0 8 0 8s3 5.5 8 5.5S16 8 16 8M1.173 8a13 13 0 0 1 1.66-2.043C4.12 4.668 5.88 3.5 8 3.5s3.879 1.168 5.168 2.457A13 13 0 0 1 14.828 8q-.086.13-.195.288c-.335.48-.83 1.12-1.465 1.755C11.879 11.332 10.119 12.5 8 12.5s-3.879-1.168-5.168-2.457A13 13 0 0 1 1.172 8z"/>
+                                        <path d="M8 5.5a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5M4.5 8a3.5 3.5 0 1 1 7 0 3.5 3.5 0 0 1-7 0"/>
+                                    </svg>
+                                    Aceleração de comunicação +
+                                    Inspeção de tráfego em tempo real para
+                                    identificação de aplicações.
+                                </li>
+                                <li class="d-grid justi align text-center row g-row-6 p-3">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="black" class="bi bi-border-style" viewBox="0 0 16 16">
+                                        <path d="M1 3.5a.5.5 0 0 1 .5-.5h13a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-13a.5.5 0 0 1-.5-.5zm0 4a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-5a.5.5 0 0 1-.5-.5zm0 4a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-1a.5.5 0 0 1-.5-.5zm8 0a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-1a.5.5 0 0 1-.5-.5zm-4 0a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-1a.5.5 0 0 1-.5-.5zm8 0a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-1a.5.5 0 0 1-.5-.5zm-4-4a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-5a.5.5 0 0 1-.5-.5z"/>
+                                    </svg>
+                                    IPS pré-digitalização/pré-comunicação +
+                                    Assinaturas e processamento acelerado de
+                                    antivírus.
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="action-btn mt-1 align-items-center row d-block text-center mb-5 mt-2">
+                    <a href="https://wa.me/5517997914198?text=Ol%C3%A1%2C+gostaria+de+saber+mais+sobre+o+produto+FortiGate-1800F" class="btn btn-primary text-primary me-3 col-12 col-lg-3 m-auto">Compre Agora</a>
+                </div>
+                
+                <div class="text-center mt-3 mb-4">
+                    <img src="../../assets/img/fortigate/FortiManager.png" alt="fortiOS" class="img-fluid">
+                </div>
+
+
+                <li class="list-group">
+                    <h3 class="fs-4">Rede centralizada e segurança Gestão em escala</h3>
+                    <p class="">
+                        FortiManager, o gerenciamento centralizado
+                        solução da Fortinet, permite integração
+                        gerenciamento da estrutura de segurança Fortinet,
+                        incluindo dispositivos como FortiGate, FortiSwitch,
+                        e FortiAP. Simplifica e automatiza o
+                        supervisão de funções de rede e segurança
+                        em diversos ambientes, servindo como
+                        o componente fundamental para a implantação
+                        Firewalls de malha híbrida.
+                    </p>
+                </li>
+
+
+            </div>
+ 
+            <div class="mb-5 p-lg-5 p-3 justify-content-center align-items-center">
+                <div class="row col-12 align-items-center justify-content-center">
+                    <h3 class="fs-3 fs-2 mb-5">Casos de Uso</h3>
+                    <div class="row col-12 gap-5 align-items-center justify-content-center">  
+                        <div class="row col-lg-12 border p-lg-5 pt-5 pb-5 shadow rounded ">
+                            <h4 class="text-primary fw-normal">NGFW</h4>
+                            <ul class="gap-5 col-12">
+                                <li class="align-items-center row g-row-6 p-3 border-bottom col-12">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="black" class="col-12 col-lg-2 bi bi-bug" viewBox="0 0 16 16">
+                                        <path d="M4.355.522a.5.5 0 0 1 .623.333l.291.956A5 5 0 0 1 8 1c1.007 0 1.946.298 2.731.811l.29-.956a.5.5 0 1 1 .957.29l-.41 1.352A5 5 0 0 1 13 6h.5a.5.5 0 0 0 .5-.5V5a.5.5 0 0 1 1 0v.5A1.5 1.5 0 0 1 13.5 7H13v1h1.5a.5.5 0 0 1 0 1H13v1h.5a1.5 1.5 0 0 1 1.5 1.5v.5a.5.5 0 1 1-1 0v-.5a.5.5 0 0 0-.5-.5H13a5 5 0 0 1-10 0h-.5a.5.5 0 0 0-.5.5v.5a.5.5 0 1 1-1 0v-.5A1.5 1.5 0 0 1 2.5 10H3V9H1.5a.5.5 0 0 1 0-1H3V7h-.5A1.5 1.5 0 0 1 1 5.5V5a.5.5 0 0 1 1 0v.5a.5.5 0 0 0 .5.5H3c0-1.364.547-2.601 1.432-3.503l-.41-1.352a.5.5 0 0 1 .333-.623M4 7v4a4 4 0 0 0 3.5 3.97V7zm4.5 0v7.97A4 4 0 0 0 12 11V7zM12 6a4 4 0 0 0-1.334-2.982A3.98 3.98 0 0 0 8 2a3.98 3.98 0 0 0-2.667 1.018A4 4 0 0 0 4 6z"/>
+                                    </svg>
+                                    <p class="col-lg-10 col-12 text-left">
+                                        O conjunto de serviços de segurança alimentados por IA do FortiGuard Labs – 
+                                        nativamente integrado ao seu NGFW – 
+                                        protege a web, o conteúdo e os dispositivos e protege as redes contra ransomware e ataques cibernéticos sofisticados.
+                                    </p>
+                                </li>
+                                <li class="align-items-center row g-row-6 p-3 border-bottom">                                    
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="black" class="col-12 col-lg-2 bi bi-eye-fill" viewBox="0 0 16 16">
+                                        <path d="M10.5 8a2.5 2.5 0 1 1-5 0 2.5 2.5 0 0 1 5 0"/>
+                                        <path d="M0 8s3-5.5 8-5.5S16 8 16 8s-3 5.5-8 5.5S0 8 0 8m8 3.5a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7"/>
+                                    </svg>
+                                    <p class="col-10 text-left">
+                                        A inspeção SSL em tempo real (incluindo TLS 1.3) fornece visibilidade total de usuários, dispositivos e
+                                        aplicações em toda a superfície de ataque.
+                                    </p>
+                                </li>
+                                <li class="align-items-center row g-row-6 p-3">   
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="black" class="col-12 col-lg-2  bi bi-cpu" viewBox="0 0 16 16">
+                                        <path d="M5 0a.5.5 0 0 1 .5.5V2h1V.5a.5.5 0 0 1 1 0V2h1V.5a.5.5 0 0 1 1 0V2h1V.5a.5.5 0 0 1 1 0V2A2.5 2.5 0 0 1 14 4.5h1.5a.5.5 0 0 1 0 1H14v1h1.5a.5.5 0 0 1 0 1H14v1h1.5a.5.5 0 0 1 0 1H14v1h1.5a.5.5 0 0 1 0 1H14a2.5 2.5 0 0 1-2.5 2.5v1.5a.5.5 0 0 1-1 0V14h-1v1.5a.5.5 0 0 1-1 0V14h-1v1.5a.5.5 0 0 1-1 0V14h-1v1.5a.5.5 0 0 1-1 0V14A2.5 2.5 0 0 1 2 11.5H.5a.5.5 0 0 1 0-1H2v-1H.5a.5.5 0 0 1 0-1H2v-1H.5a.5.5 0 0 1 0-1H2v-1H.5a.5.5 0 0 1 0-1H2A2.5 2.5 0 0 1 4.5 2V.5A.5.5 0 0 1 5 0m-.5 3A1.5 1.5 0 0 0 3 4.5v7A1.5 1.5 0 0 0 4.5 13h7a1.5 1.5 0 0 0 1.5-1.5v-7A1.5 1.5 0 0 0 11.5 3zM5 6.5A1.5 1.5 0 0 1 6.5 5h3A1.5 1.5 0 0 1 11 6.5v3A1.5 1.5 0 0 1 9.5 11h-3A1.5 1.5 0 0 1 5 9.5zM6.5 6a.5.5 0 0 0-.5.5v3a.5.5 0 0 0 .5.5h3a.5.5 0 0 0 .5-.5v-3a.5.5 0 0 0-.5-.5z"/>
+                                    </svg>
+                                    <p class="col-10 text-left">
+                                        Fortinet’s patented SPU (Security Processing Unit) technology provides industry-leading
+                                        high-performance protection.
+                                    </p>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="row col-lg-12 border p-lg-5 pt-5 pb-5 shadow rounded ">
+                            <h4 class="text-primary fw-normal">Segmentação</h4>
+                            <ul class="gap-5 col-12">
+                                <li class="align-items-center row g-row-6 p-3 border-bottom">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="black" class="bi bi-activity col-12 col-lg-2" viewBox="0 0 16 16">
+                                        <path fill-rule="evenodd" d="M6 2a.5.5 0 0 1 .47.33L10 12.036l1.53-4.208A.5.5 0 0 1 12 7.5h3.5a.5.5 0 0 1 0 1h-3.15l-1.88 5.17a.5.5 0 0 1-.94 0L6 3.964 4.47 8.171A.5.5 0 0 1 4 8.5H.5a.5.5 0 0 1 0-1h3.15l1.88-5.17A.5.5 0 0 1 6 2"/>
+                                      </svg>
+                                    <p class="col-12 col-lg-10 text-left">
+                                        A segmentação dinâmica se adapta a qualquer topologia de rede para oferecer uma verdadeira segurança de ponta a ponta
+                                        desde a filial até o data center e em ambientes com várias nuvens.
+                                    </p>
+                                </li>
+                                <li class="align-items-center row g-row-6 p-3 border-bottom">                                    
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="black" class="bi bi-gear col-12 col-lg-2" viewBox="0 0 16 16">
+                                        <path d="M8 4.754a3.246 3.246 0 1 0 0 6.492 3.246 3.246 0 0 0 0-6.492M5.754 8a2.246 2.246 0 1 1 4.492 0 2.246 2.246 0 0 1-4.492 0"/>
+                                        <path d="M9.796 1.343c-.527-1.79-3.065-1.79-3.592 0l-.094.319a.873.873 0 0 1-1.255.52l-.292-.16c-1.64-.892-3.433.902-2.54 2.541l.159.292a.873.873 0 0 1-.52 1.255l-.319.094c-1.79.527-1.79 3.065 0 3.592l.319.094a.873.873 0 0 1 .52 1.255l-.16.292c-.892 1.64.901 3.434 2.541 2.54l.292-.159a.873.873 0 0 1 1.255.52l.094.319c.527 1.79 3.065 1.79 3.592 0l.094-.319a.873.873 0 0 1 1.255-.52l.292.16c1.64.893 3.434-.902 2.54-2.541l-.159-.292a.873.873 0 0 1 .52-1.255l.319-.094c1.79-.527 1.79-3.065 0-3.592l-.319-.094a.873.873 0 0 1-.52-1.255l.16-.292c.893-1.64-.902-3.433-2.541-2.54l-.292.159a.873.873 0 0 1-1.255-.52zm-2.633.283c.246-.835 1.428-.835 1.674 0l.094.319a1.873 1.873 0 0 0 2.693 1.115l.291-.16c.764-.415 1.6.42 1.184 1.185l-.159.292a1.873 1.873 0 0 0 1.116 2.692l.318.094c.835.246.835 1.428 0 1.674l-.319.094a1.873 1.873 0 0 0-1.115 2.693l.16.291c.415.764-.42 1.6-1.185 1.184l-.291-.159a1.873 1.873 0 0 0-2.693 1.116l-.094.318c-.246.835-1.428.835-1.674 0l-.094-.319a1.873 1.873 0 0 0-2.692-1.115l-.292.16c-.764.415-1.6-.42-1.184-1.185l.159-.291A1.873 1.873 0 0 0 1.945 8.93l-.319-.094c-.835-.246-.835-1.428 0-1.674l.319-.094A1.873 1.873 0 0 0 3.06 4.377l-.16-.292c-.415-.764.42-1.6 1.185-1.184l.292.159a1.873 1.873 0 0 0 2.692-1.115z"/>
+                                    </svg>
+                                    <p class="col-12 col-lg-10 text-left">
+                                        Ultra-escalável, de baixa latência, a segmentação VXLAN faz a ponte entre domínios físicos e virtuais
+                                        com regras de firewall de camada 4. 
+                                    </p>
+                                </li>
+                                <li class="align-items-center row g-row-6 p-3">   
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="black" class="bi bi-arrows-expand-vertical col-12 col-lg-2" viewBox="0 0 16 16">
+                                        <path d="M8 15a.5.5 0 0 1-.5-.5v-13a.5.5 0 0 1 1 0v13a.5.5 0 0 1-.5.5M.146 8.354a.5.5 0 0 1 0-.708l2-2a.5.5 0 1 1 .708.708L1.707 7.5H5.5a.5.5 0 0 1 0 1H1.707l1.147 1.146a.5.5 0 0 1-.708.708zM10 8a.5.5 0 0 1 .5-.5h3.793l-1.147-1.146a.5.5 0 0 1 .708-.708l2 2a.5.5 0 0 1 0 .708l-2 2a.5.5 0 0 1-.708-.708L14.293 8.5H10.5A.5.5 0 0 1 10 8"/>
+                                      </svg>
+                                    <p class="col-12 col-lg-10 text-left">
+                                        Evita o movimento lateral na rede com uma proteção avançada e coordenada dos
+                                        Serviços de Segurança FortiGuard que detectaam e impedeem ataques conhecidos, de dia zero e ataques desconhecidos.                                 
+                                    </p>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="row col-lg-12 border p-lg-5 pt-5 pb-5 shadow rounded ">
+                            <h4 class="text-primary fw-normal">SD-WAN</h4>
+                            <ul class="gap-5 col-12">
+                                <li class="align-items-center row g-row-6 p-3 border-bottom">
+                                    <svg class="col-12 col-lg-2 " xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="black" class="bi bi-intersect" viewBox="0 0 16 16">
+                                        <path d="M0 2a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v2h2a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2v-2H2a2 2 0 0 1-2-2zm5 10v2a1 1 0 0 0 1 1h8a1 1 0 0 0 1-1V6a1 1 0 0 0-1-1h-2v5a2 2 0 0 1-2 2zm6-8V2a1 1 0 0 0-1-1H2a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h2V6a2 2 0 0 1 2-2z"/>
+                                      </svg>
+                                    <p class="col-12 col-lg-10 text-left">
+                                        FortiGate WAN Edge alimentado por um sistema operacional e estrutura unificada de segurança e gerenciamento
+                                        e sistemas transformam e protegem WANs
+                                    </p>
+                                </li>
+                                <li class="align-items-center row g-row-6 p-3 border-bottom">                                    
+                                    <svg class="col-12 col-lg-2 " xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="black" class="bi bi-cloudy-fill" viewBox="0 0 16 16">
+                                        <path d="M13.405 7.027a5.001 5.001 0 0 0-9.499-1.004A3.5 3.5 0 1 0 3.5 13H13a3 3 0 0 0 .405-5.973"/>
+                                    </svg>
+                                    <p class="col-12 col-lg-10 text-left">
+                                        Oferece experiência de qualidade superior e postura de segurança eficaz para trabalhar em qualquer lugar
+                                        onde modelos, SD-Branch e casos de uso de WAN que priorizam a nuvem
+                                    </p>
+                                </li>
+                                <li class="align-items-center row g-row-6 p-3">   
+                                    <svg class="col-12 col-lg-2 " xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="black" class="bi bi-gear-wide-connected" viewBox="0 0 16 16">
+                                        <path d="M7.068.727c.243-.97 1.62-.97 1.864 0l.071.286a.96.96 0 0 0 1.622.434l.205-.211c.695-.719 1.888-.03 1.613.931l-.08.284a.96.96 0 0 0 1.187 1.187l.283-.081c.96-.275 1.65.918.931 1.613l-.211.205a.96.96 0 0 0 .434 1.622l.286.071c.97.243.97 1.62 0 1.864l-.286.071a.96.96 0 0 0-.434 1.622l.211.205c.719.695.03 1.888-.931 1.613l-.284-.08a.96.96 0 0 0-1.187 1.187l.081.283c.275.96-.918 1.65-1.613.931l-.205-.211a.96.96 0 0 0-1.622.434l-.071.286c-.243.97-1.62.97-1.864 0l-.071-.286a.96.96 0 0 0-1.622-.434l-.205.211c-.695.719-1.888.03-1.613-.931l.08-.284a.96.96 0 0 0-1.186-1.187l-.284.081c-.96.275-1.65-.918-.931-1.613l.211-.205a.96.96 0 0 0-.434-1.622l-.286-.071c-.97-.243-.97-1.62 0-1.864l.286-.071a.96.96 0 0 0 .434-1.622l-.211-.205c-.719-.695-.03-1.888.931-1.613l.284.08a.96.96 0 0 0 1.187-1.186l-.081-.284c-.275-.96.918-1.65 1.613-.931l.205.211a.96.96 0 0 0 1.622-.434zM12.973 8.5H8.25l-2.834 3.779A4.998 4.998 0 0 0 12.973 8.5m0-1a4.998 4.998 0 0 0-7.557-3.779l2.834 3.78zM5.048 3.967l-.087.065zm-.431.355A4.98 4.98 0 0 0 3.002 8c0 1.455.622 2.765 1.615 3.678L7.375 8zm.344 7.646.087.065z"/>
+                                    </svg>
+                                    <p class="col-12 col-lg-10 text-left">
+                                        Obtenha eficiência operacional em qualquer escala por meio de automação, análise profunda e
+                                        autocura
+                                    </p>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="row col-lg-12 border p-lg-5 pt-5 pb-5 shadow rounded ">
+                            <h4 class="text-primary fw-normal">HiperEscala</h4>
+                            <ul class="gap-5 col-12">
+                                <li class="align-items-center row g-row-6 p-3 border-bottom">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="black" class="bi bi-cpu-fill col-12 col-lg-2" viewBox="0 0 16 16">
+                                        <path d="M6.5 6a.5.5 0 0 0-.5.5v3a.5.5 0 0 0 .5.5h3a.5.5 0 0 0 .5-.5v-3a.5.5 0 0 0-.5-.5z"/>
+                                        <path d="M5.5.5a.5.5 0 0 0-1 0V2A2.5 2.5 0 0 0 2 4.5H.5a.5.5 0 0 0 0 1H2v1H.5a.5.5 0 0 0 0 1H2v1H.5a.5.5 0 0 0 0 1H2v1H.5a.5.5 0 0 0 0 1H2A2.5 2.5 0 0 0 4.5 14v1.5a.5.5 0 0 0 1 0V14h1v1.5a.5.5 0 0 0 1 0V14h1v1.5a.5.5 0 0 0 1 0V14h1v1.5a.5.5 0 0 0 1 0V14a2.5 2.5 0 0 0 2.5-2.5h1.5a.5.5 0 0 0 0-1H14v-1h1.5a.5.5 0 0 0 0-1H14v-1h1.5a.5.5 0 0 0 0-1H14v-1h1.5a.5.5 0 0 0 0-1H14A2.5 2.5 0 0 0 11.5 2V.5a.5.5 0 0 0-1 0V2h-1V.5a.5.5 0 0 0-1 0V2h-1V.5a.5.5 0 0 0-1 0V2h-1zm1 4.5h3A1.5 1.5 0 0 1 11 6.5v3A1.5 1.5 0 0 1 9.5 11h-3A1.5 1.5 0 0 1 5 9.5v-3A1.5 1.5 0 0 1 6.5 5"/>
+                                    </svg>
+                                    <p class="col-12 col-lg-10 text-left">
+                                        As SPUs criadas para fins específicos alimentam o FortiOS para consolidar a rede e a segurança e fornecer
+                                        redes ultra-escaláveis orientadas para a segurança
+                                    </p>
+                                </li>
+                                <li class="align-items-center row g-row-6 p-3 border-bottom">                                    
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="black" class="bi bi-boxes col-12 col-lg-2" viewBox="0 0 16 16">
+                                        <path d="M7.752.066a.5.5 0 0 1 .496 0l3.75 2.143a.5.5 0 0 1 .252.434v3.995l3.498 2A.5.5 0 0 1 16 9.07v4.286a.5.5 0 0 1-.252.434l-3.75 2.143a.5.5 0 0 1-.496 0l-3.502-2-3.502 2.001a.5.5 0 0 1-.496 0l-3.75-2.143A.5.5 0 0 1 0 13.357V9.071a.5.5 0 0 1 .252-.434L3.75 6.638V2.643a.5.5 0 0 1 .252-.434zM4.25 7.504 1.508 9.071l2.742 1.567 2.742-1.567zM7.5 9.933l-2.75 1.571v3.134l2.75-1.571zm1 3.134 2.75 1.571v-3.134L8.5 9.933zm.508-3.996 2.742 1.567 2.742-1.567-2.742-1.567zm2.242-2.433V3.504L8.5 5.076V8.21zM7.5 8.21V5.076L4.75 3.504v3.134zM5.258 2.643 8 4.21l2.742-1.567L8 1.076zM15 9.933l-2.75 1.571v3.134L15 13.067zM3.75 14.638v-3.134L1 9.933v3.134z"/>
+                                    </svg>
+                                    <p class="col-12 col-lg-10 text-left">
+                                        O desempenho ultra-elevado sem paralelo oferece o maior número de ligações
+                                        e conexões por segundo do setor, combinado com desempenho habilitado para segurança
+                                        para proteger aplicações críticas para a empresa
+                                    </p>
+                                </li>
+                                <li class="align-items-center row g-row-6 p-3">   
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="black" class="bi bi-clipboard-pulse col-12 col-lg-2" viewBox="0 0 16 16">
+                                        <path fill-rule="evenodd" d="M10 1.5a.5.5 0 0 0-.5-.5h-3a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h3a.5.5 0 0 0 .5-.5zm-5 0A1.5 1.5 0 0 1 6.5 0h3A1.5 1.5 0 0 1 11 1.5v1A1.5 1.5 0 0 1 9.5 4h-3A1.5 1.5 0 0 1 5 2.5zm-2 0h1v1H3a1 1 0 0 0-1 1V14a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V3.5a1 1 0 0 0-1-1h-1v-1h1a2 2 0 0 1 2 2V14a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V3.5a2 2 0 0 1 2-2m6.979 3.856a.5.5 0 0 0-.968.04L7.92 10.49l-.94-3.135a.5.5 0 0 0-.895-.133L4.232 10H3.5a.5.5 0 0 0 0 1h1a.5.5 0 0 0 .416-.223l1.41-2.115 1.195 3.982a.5.5 0 0 0 .968-.04L9.58 7.51l.94 3.135A.5.5 0 0 0 11 11h1.5a.5.5 0 0 0 0-1h-1.128z"/>
+                                    </svg>
+                                    <p class="col-12 col-lg-10 text-left">
+                                        O anti-DDoS assistido por hardware impede ataques volumétricos e proporciona uma forte
+                                        postura de segurança
+                                    </p>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="row col-lg-12 border p-lg-5 pt-5 pb-5 shadow rounded ">
+                            <h4 class="text-primary fw-normal">Segurança móvel para 4G, 5G e IoT</h4>
+                            <ul class="gap-5 col-12">
+                                <li class="align-items-center row g-row-6 p-3 border-bottom">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="black" class="bi bi-phone col-12 col-lg-2" viewBox="0 0 16 16">
+                                        <path d="M11 1a1 1 0 0 1 1 1v12a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V2a1 1 0 0 1 1-1zM5 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2z"/>
+                                        <path d="M8 14a1 1 0 1 0 0-2 1 1 0 0 0 0 2"/>
+                                      </svg>
+                                    <p class="col-12 col-lg-10 text-left">
+                                        Opções de migração CGNAT e IPv6 aceleradas por SPU e de alto desempenho, incluindo: NAT44,
+                                        NAT444, NAT64/ DNS64, NAT46 para 4G Gi/sGi e conetividade e segurança 5G N6;
+                                    </p>
+                                </li>
+                                <li class="align-items-center row g-row-6 p-3 border-bottom">                                    
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="black" class="bi bi-person-bounding-box col-12 col-lg-2" viewBox="0 0 16 16">
+                                        <path d="M1.5 1a.5.5 0 0 0-.5.5v3a.5.5 0 0 1-1 0v-3A1.5 1.5 0 0 1 1.5 0h3a.5.5 0 0 1 0 1zM11 .5a.5.5 0 0 1 .5-.5h3A1.5 1.5 0 0 1 16 1.5v3a.5.5 0 0 1-1 0v-3a.5.5 0 0 0-.5-.5h-3a.5.5 0 0 1-.5-.5M.5 11a.5.5 0 0 1 .5.5v3a.5.5 0 0 0 .5.5h3a.5.5 0 0 1 0 1h-3A1.5 1.5 0 0 1 0 14.5v-3a.5.5 0 0 1 .5-.5m15 0a.5.5 0 0 1 .5.5v3a1.5 1.5 0 0 1-1.5 1.5h-3a.5.5 0 0 1 0-1h3a.5.5 0 0 0 .5-.5v-3a.5.5 0 0 1 .5-.5"/>
+                                        <path d="M3 14s-1 0-1-1 1-4 6-4 6 3 6 4-1 1-1 1zm8-9a3 3 0 1 1-6 0 3 3 0 0 1 6 0"/>
+                                      </svg>
+                                    <p class="col-12 col-lg-10 text-left">
+                                        Segurança de acesso à RAN com agregação e controle de IPsec altamente escalável e com o melhor desempenho
+                                        Gateway de segurança de controle (SecGW);
+                                    </p>
+                                </li>
+                                <li class="align-items-center row g-row-6 p-3">   
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="black" class="bi bi-lock-fill col-12 col-lg-2" viewBox="0 0 16 16">
+                                        <path d="M8 1a2 2 0 0 1 2 2v4H6V3a2 2 0 0 1 2-2m3 6V3a3 3 0 0 0-6 0v4a2 2 0 0 0-2 2v5a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2V9a2 2 0 0 0-2-2"/>
+                                    </svg>
+                                    <p class="col-12 col-lg-10 text-left">
+                                        Segurança no plano do utilizador possibilitada pela proteção total contra ameaças e visibilidade da inspeção GTP-U.                                
+                                    </p>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="mb-5 p-lg-5 p-3 justify-content-center align-items-center">
+                <h2 class="fw-normal pt-1 w-100 text-center">
+                    Hardware <span class="fw-semibold">FortiGate 1800F Series</span>
+                </h2>
+
+                <div class="text-center mt-5 mb-5">
+                    <img src="../../assets/img/fortigate/fortigate-200f-items.png" alt="fortgate items" class="img-fluid">
+                </div>
+
+                <ul class="row col-12 justify-content-center text-center mb-5">
+                    <div class="col-6 col-lg-3 align-items-center">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="red" class="bi bi-1-circle-fill" viewBox="0 0 16 16">
+                            <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0M9.283 4.002H7.971L6.072 5.385v1.271l1.834-1.318h.065V12h1.312z"/>
+                        </svg>
+                        <p class="mt-3">
+                            2x Portas GE RJ45 MGMT
+                        </p>
+                    </div>
+                    <div class="col-6 col-lg-3 align-items-center">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="red" class="bi bi-2-circle-fill" viewBox="0 0 16 16">
+                            <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0M6.646 6.24c0-.691.493-1.306 1.336-1.306.756 0 1.313.492 1.313 1.236 0 .697-.469 1.23-.902 1.705l-2.971 3.293V12h5.344v-1.107H7.268v-.077l1.974-2.22.096-.107c.688-.763 1.287-1.428 1.287-2.43 0-1.266-1.031-2.215-2.613-2.215-1.758 0-2.637 1.19-2.637 2.402v.065h1.271v-.07Z"/>
+                        </svg>
+                        <p class="mt-3">
+                            2x Slots 10 GE SFP+ / GE SFP HA 
+                        </p>
+                    </div>
+                    <div class="col-6 col-lg-3 align-items-center">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="red" class="bi bi-3-circle-fill" viewBox="0 0 16 16">
+                            <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0m-8.082.414c.92 0 1.535.54 1.541 1.318.012.791-.615 1.36-1.588 1.354-.861-.006-1.482-.469-1.54-1.066H5.104c.047 1.177 1.05 2.144 2.754 2.144 1.653 0 2.954-.937 2.93-2.396-.023-1.278-1.031-1.846-1.734-1.916v-.07c.597-.1 1.505-.739 1.482-1.876-.03-1.177-1.043-2.074-2.637-2.062-1.675.006-2.59.984-2.625 2.12h1.248c.036-.556.557-1.054 1.348-1.054.785 0 1.348.486 1.348 1.195.006.715-.563 1.237-1.342 1.237h-.838v1.072h.879Z"/>
+                        </svg>
+                        <p class="mt-3">
+                            16x Portas GE RJ45
+                        </p>
+                    </div>
+                    <div class="col-6 col-lg-3 align-items-center">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="red" class="bi bi-4-circle-fill" viewBox="0 0 16 16">
+                            <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0M7.519 5.057c-.886 1.418-1.772 2.838-2.542 4.265v1.12H8.85V12h1.26v-1.559h1.007V9.334H10.11V4.002H8.176zM6.225 9.281v.053H8.85V5.063h-.065c-.867 1.33-1.787 2.806-2.56 4.218"/>
+                        </svg>
+                        <p class="mt-3">
+                            8x Slots GE SFP
+                        </p>
+                    </div>
+                    <div class="col-6 col-lg-3 align-items-center">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="red" class="bi bi-5-circle-fill" viewBox="0 0 16 16">
+                            <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0m-8.006 4.158c1.74 0 2.924-1.119 2.924-2.806 0-1.641-1.178-2.584-2.56-2.584-.897 0-1.442.421-1.612.68h-.064l.193-2.344h3.621V4.002H5.791L5.445 8.63h1.149c.193-.358.668-.809 1.435-.809.85 0 1.582.604 1.582 1.57 0 1.085-.779 1.682-1.57 1.682-.697 0-1.389-.31-1.53-1.031H5.276c.065 1.213 1.149 2.115 2.72 2.115Z"/>
+                        </svg>
+                        <p class="mt-3">
+                            12x Slots 25 SFP28/ 10 GE SFP+/ GE SFP
+                        </p>
+                    </div>
+                    <div class="col-6 col-lg-3 align-items-center">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="red" class="bi bi-6-circle-fill" viewBox="0 0 16 16">
+                            <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0M8.21 3.855c-1.868 0-3.116 1.395-3.116 4.407 0 1.183.228 2.039.597 2.642.569.926 1.477 1.254 2.409 1.254 1.629 0 2.847-1.013 2.847-2.783 0-1.676-1.254-2.555-2.508-2.555-1.125 0-1.752.61-1.98 1.155h-.082c-.012-1.946.727-3.036 1.805-3.036.802 0 1.213.457 1.312.815h1.29c-.06-.908-.962-1.899-2.573-1.899Zm-.099 4.008c-.92 0-1.564.65-1.564 1.576 0 1.032.703 1.635 1.558 1.635.868 0 1.553-.533 1.553-1.629 0-1.06-.744-1.582-1.547-1.582"/>
+                        </svg>
+                        <p class="mt-3">
+                            4x Slots* 100 GE QSFP28/ 40 GE QSFP+
+                        </p>
+                    </div>
+                </ul>
+
+                <div class="action-btn mt-1 align-items-center row d-block mb-5 mt-2 text-center">
+                    <a href="https://wa.me/5517997914198?text=Ol%C3%A1%2C+gostaria+de+saber+mais+sobre+o+produto+FortiGate-1800F" class="btn btn-primary text-primary me-3 col-12 col-lg-3 m-auto">Compre Agora</a>
+                </div>
+            </div>
+
+            <div class="mb-5 p-lg-5 p-3 justify-content-center align-items-center">
+                <h2 class="fw-normal pt-1 w-100 text-center">
+                    Especificações Técnicas
+                </h2>
+
+                <details class="col-12 p-3 border shadow mb-3 rounded">
+                    <summary class="fs-6 text-primary list-group">
+                        Interfaces e Módulos
+                    </summary>
+                    <table class="col-12 p-5 align-items-center justify-content-center">
+                        <tr class="col-12 p-3 border-bottom pb-2 ">
+                            <td>Portas GE RJ45 aceleradas por hardware</td>
+                            <td>16</td>
+                        </tr>
+                        <tr class="col-12 p-3 border-bottom pb-2 ">
+                            <td>Slots GE SFP acelerados por hardware</td>
+                            <td>8</td>
+                        </tr>
+                        <tr class="col-12 p-3 border-bottom pb-2 ">
+                            <td>Slotes para hardwares acelerados  100 GE QSFP28 / 40
+                                GE QSFP+</td>
+                            <td>4</td>
+                        </tr>
+                        <tr class="col-12 p-3 border-bottom pb-2">
+                            <td>Slots para hardwares acelerados 25 GE SFP28 /
+                                10 GE SFP+ / GE SFP</td>
+                            <td>12</td>     
+                        </tr>
+                        <tr class="col-12 p-3 border-bottom pb-2">
+                            <td>Portas de gestão GE RJ45</td>
+                            <td>2</td>     
+                        </tr>
+                        <tr class="col-12 p-3 border-bottom pb-2">
+                            <td>Porta 2.5 GE/ GE HA</td>
+                            <td>1</td>     
+                        </tr>
+                        <tr class="col-12 p-3 border-bottom pb-2">
+                            <td>Slots 10 GE SFP+ / GE SFP HA</td>
+                            <td>2</td>     
+                        </tr>
+                        <tr class="col-12 p-3 border-bottom pb-2">
+                            <td>Portas USB 3.0</td>
+                            <td>1</td>     
+                        </tr>
+                        <tr class="col-12 p-3 border-bottom pb-2">
+                            <td>Porta RJ45 para console</td>
+                            <td>1</td>     
+                        </tr>
+                        <tr class="col-12 p-3 border-bottom pb-2">
+                            <td>Armazenamento</td>
+                            <td>0</td>     
+                        </tr>
+                        <tr class="col-12 p-3 border-bottom pb-2">
+                            <td>Módulo de plataforma confiável (TPM)</td>
+                            <td>SIM</td>     
+                        </tr>
+                        <tr class="col-12 p-3">
+                            <td>Transceptores incluídos</td>
+                            <td>2x SFP+ (SR 10 GE)</td>     
+                        </tr>
+                    </table>
+                </details>
+                <details class="col-12 p-3 border shadow mb-3 rounded">
+                    <summary class="fs-6 text-primary list-group">
+                        Desempenho do sistema — Mix de tráfego empresarial
+                    </summary>
+                    <table class="col-12 p-5 align-items-center justify-content-center">
+                        <tr class="col-12 p-3 border-bottom pb-2">
+                            <td>Taxa de transferência IPS <sup>2</sup></td>
+                            <td>22 Gbps</td>
+                        </tr>
+                        <tr class="col-12 p-3 border-bottom pb-2">
+                            <td>Taxa de transferência NGFW <sup>2,4</sup></td>
+                            <td>17 Gbps</td>     
+                        </tr>
+                        <tr class="col-12 p-3">
+                            <td>Taxa de transferência de proteção contra ameaças <sup>2,5</sup></td>
+                            <td>15 Gbps</td>     
+                        </tr>
+                    </table>
+                </details>
+                <details class="col-12 p-3 border shadow mb-3 rounded">
+                    <summary class="fs-6 text-primary list-group">
+                        Desempenho e capacidade do sistema
+                    </summary>
+                    <table class="col-12 p-5 align-items-center justify-content-center">
+                        <tr class="col-12 p-3 border-bottom pb-2">
+                            <td>Taxa de transferência do firewall IPv4
+                                (1518/512/64 bytes, UDP)
+                            </td>
+                            <td>198 / 197 / 140 Gbps</td>
+                        </tr>
+                        <tr class="col-12 p-3 border-bottom pb-2">
+                            <td>Taxa de transferência da Firewall IPv6
+                                (1518 / 512 / 86 bytes, UDP)
+                            </td>
+                            <td>198 / 197 / 140 Gbps</td>
+                        </tr>
+                        <tr class="col-12 p-3 border-bottom pb-2">
+                            <td>Latência do Firewall (64 bytes, UDP)</td>
+                            <td>3.22 μs</td>     
+                        </tr>
+                        <tr class="col-12 p-3 border-bottom pb-2">
+                            <td>Taxa de transferência do firewall (pacote por segundo)</td>
+                            <td>210 Mpps</td>     
+                        </tr>
+                        <tr class="col-12 p-3 border-bottom pb-2">
+                            <td>Sessões simultâneas (TCP)</td>
+                            <td>12 Million / 40 Million*</td>     
+                        </tr>
+                        <tr class="col-12 p-3 border-bottom pb-2">
+                            <td>Novas sessões por segundo (TCP)</td>
+                            <td>750 000 / 2 Million*</td>     
+                        </tr>
+                        <tr class="col-12 p-3 border-bottom pb-2">
+                            <td>Políticas de firewall</td>
+                            <td>100 000</td>     
+                        </tr>
+                        <tr class="col-12 p-3 border-bottom pb-2">
+                            <td>Taxa de transferência VPN IPsec (512 bytes) <sup>1</sup></td>
+                            <td>55 Gbps</td>     
+                        </tr>
+                        <tr class="col-12 p-3 border-bottom pb-2">
+                            <td>Túneis VPN IPsec gateway a gateway</td>
+                            <td>20 000</td>     
+                        </tr>
+                        <tr class="col-12 p-3 border-bottom pb-2">
+                            <td>Túneis VPN IPsec cliente-gateway</td>
+                            <td>100 000</td>     
+                        </tr>
+                        <tr class="col-12 p-3 border-bottom pb-2">
+                            <td>Taxa de transferência SSL-VPN</td>
+                            <td>11 Gbps</td>     
+                        </tr>
+                        <tr class="col-12 p-3 border-bottom pb-2">
+                            <td>Usuários SSL-VPN simultâneos (Máximo recomendado, modo túnel)</td>
+                            <td>10 000</td>     
+                        </tr>
+                        <tr class="col-12 p-3 border-bottom pb-2">
+                            <td>SSL Inspection Throughput (IPS, avg. HTTPS) <sup>3</sup></td>
+                            <td>12 Gbps</td>     
+                        </tr>
+                        <tr class="col-12 p-3 border-bottom pb-2">
+                            <td>CPS de inspeção SSL (IPS, média HTTPS) <sup>3</sup></td>
+                            <td>9500</td>     
+                        </tr>
+                        <tr class="col-12 p-3 border-bottom pb-2">
+                            <td>Sessão Simultânea de Inspeção SSL (IPS, média HTTPS) <sup>3</sup></td>
+                            <td>1.3 Million</td>     
+                        </tr>
+                        <tr class="col-12 p-3 border-bottom pb-2">
+                            <td>Taxa de transferência de controle de aplicativos (HTTP 64K) <sup>3</sup></td>
+                            <td>34 Gbps</td>     
+                        </tr>
+                        <tr class="col-12 p-3 border-bottom pb-2">
+                            <td>Taxa de transferência CAPWAP (HTTP 64K)</td>
+                            <td>65 Gbps</td>     
+                        </tr>
+                        <tr class="col-12 p-3 border-bottom pb-2">
+                            <td>Domínios Virtuais (Padrão/Máximo)</td>
+                            <td>10 / 250</td>     
+                        </tr>
+                        <tr class="col-12 p-3 border-bottom pb-2">
+                            <td>Número máximo de FortiSwitches Suportado</td>
+                            <td>196</td>     
+                        </tr>
+                        <tr class="col-12 p-3 border-bottom pb-2">
+                            <td>Número Máximo de FortiAPs (Total / Túnel)</td>
+                            <td>4096 / 2048</td>     
+                        </tr>
+                        <tr class="col-12 p-3 border-bottom pb-2">
+                            <td>Número Máximo de FortiTokens</td>
+                            <td>20 000</td>     
+                        </tr>
+                        <tr class="col-12 p-3">
+                            <td>Configurações de alta disponibilidade</td>
+                            <td>Ativo-Ativo, Ativo-Passivo, Clustering</td>     
+                        </tr>
+                    </table>
+                </details>
+                <details class="col-12 p-3 border shadow mb-3 rounded">
+                    <summary class="fs-6 text-primary list-group">
+                        Dimensões e Potência
+                    </summary>
+                    <table class="col-12 p-5 align-items-center justify-content-center">
+                        <tr class="col-12 p-3 border-bottom pb-2">
+                            <td>Altura x Largura x Comprimento (polegadas)</td>
+                            <td>3.5 x 17.25 x 21.1</td>
+                        </tr>
+                        <tr class="col-12 p-3 border-bottom pb-2">
+                            <td>Altura x Largura x Comprimento (mm)</td>
+                            <td>88.4 x 438 x 536</td>     
+                        </tr>
+                        <tr class="col-12 p-3 border-bottom pb-2">
+                            <td>Peso</td>
+                            <td>30.2 lbs (13.7 kg)</td>     
+                        </tr>
+                        <tr class="col-12 p-3 border-bottom pb-2">
+                            <td>Fator de forma (suporta padrões EIA/não-EIA)</td>
+                            <td>Montagem em Rack, 2RU</td>     
+                        </tr>
+                        <tr class="col-12 p-3 border-bottom pb-2">
+                            <td>Fonte de alimentação CA</td>
+                            <td>100–240VAC, 50/60 Hz</td>     
+                        </tr>
+                        <tr class="col-12 p-3 border-bottom pb-2">
+                            <td>Corrente AC (máxima)</td>
+                            <td>7A@100VAC, 3A@240VAC</td>     
+                        </tr>
+                        <tr class="col-12 p-3 border-bottom pb-2">
+                            <td>Fonte de alimentação CC</td>
+                            <td>-48V to -60V DC</td>     
+                        </tr>
+                        <tr class="col-12 p-3 border-bottom pb-2">
+                            <td>Corrente DC (máxima)</td>
+                            <td>20A</td>     
+                        </tr>
+                        <tr class="col-12 p-3 border-bottom pb-2">
+                            <td>Consumo de energia (Média/Máximo)</td>
+                            <td>410.9 W / 459.1 W</td>     
+                        </tr>
+                        <tr class="col-12 p-3 border-bottom pb-2">
+                            <td>Dissipação de calor</td>
+                            <td>1565.53 BTU/h</td>     
+                        </tr>
+                        <tr class="col-12 p-3 border-bottom pb-2">
+                            <td>Classificação de eficiência da fonte de alimentação</td>
+                            <td>Conformidade com 80Plus</td>     
+                        </tr>
+                        <tr class="col-12 p-3 border-bottom pb-2">
+                            <td>Fontes de alimentação redundantes
+                                Pode ser trocado a quente</td>
+                            <td>Sim
+                                (PSU AC dupla predefinida para redundância 1+1)</td>     
+                        </tr>
+                        <tr class="col-12 p-3">
+                            <td>Classificação de eficiência da F.A</td>
+                            <td>Compatível com 80Plus</td>     
+                        </tr>
+                    </table>
+                </details>
+                <details class="col-12 p-3 border shadow mb-3 rounded">
+                    <summary class="fs-6 text-primary list-group">
+                        Ambiente Operacional e Certificações
+                    </summary>
+                    <table class="col-12 p-5 align-items-center justify-content-center">
+                        <tr class="col-12 p-3 border-bottom pb-2">
+                            <td>Temperatura de operação</td>
+                            <td>32°F to 104°F (0°C to 40°C)</td>
+                        </tr>
+                        <tr class="col-12 p-3 border-bottom pb-2">
+                            <td>Temperatura de armazenamento</td>
+                            <td>-31°F to 158°F (-35°C to 70°C)</td>     
+                        </tr>
+                        <tr class="col-12 p-3 border-bottom pb-2">
+                            <td>Umidade</td>
+                            <td>10% a 90% sem condensação</td>     
+                        </tr>
+                        <tr class="col-12 p-3 border-bottom pb-2">
+                            <td>Nível de ruído</td>
+                            <td>62.74 dBA</td>     
+                        </tr>
+                        <tr class="col-12 p-3 border-bottom pb-2">
+                            <td>Fluxo de ar</td>
+                            <td>Do lado e da frente para trás</td>     
+                        </tr>
+                        <tr class="col-12 p-3 border-bottom pb-2">
+                            <td>Altitude de Operação</td>
+                            <td>Até 7400 pés (2250 m)</td>     
+                        </tr>
+                        <tr class="col-12 p-3 border-bottom pb-2">
+                            <td>Conformidade</td>
+                            <td>FCC Parte 15 Classe A, RCM, VCCI,
+                                CE, UL/cUL, CB</td>     
+                        </tr>
+                        <tr class="col-12 p-3">
+                            <td>Certificação</td>
+                            <td>USGv6/IPv6</td>     
+                        </tr>
+                    </table>
+                </details>
+
+            </div>
+            
+        </section>
+        <!-- Content End -->
+
+        <!-- Contact Start -->
+        <?php  include '../../assets/php/includes/form.php'?>
+        <!-- Contact End -->
+
+        <!-- Footer Start -->
+        <?php include '../../assets/php/includes/footer.php'?>
+        <!-- Footer End -->
+
+    </div>
+
+
+
+
+    <!--build:js-->
+    <script src="../../assets/js/vendors/jquery-3.6.0.min.js"></script>
+    <script src="../../assets/js/vendors/bootstrap.bundle.min.js"></script>
+    <script src="../../assets/js/vendors/swiper-bundle.min.js"></script>
+    <script src="../../assets/js/vendors/jquery.magnific-popup.min.js"></script>
+    <script src="../../assets/js/vendors/parallax.min.js"></script>
+    <script src="../../assets/js/vendors/aos.js"></script>
+    <script src="../../assets/js/vendors/massonry.min.js"></script>
+    <script src="../../assets/js/app.js"></script>
+    <!--endbuild
+</body>
+
+</html>

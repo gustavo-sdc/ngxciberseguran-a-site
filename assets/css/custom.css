@@ -1,0 +1,168 @@
+.icon-services{
+    height:2vw
+}
+
+.main-content{
+    position: relative;
+    top:0;
+}
+
+.white{
+    color: white;
+}
+
+.grey{
+    background-color: white !important;
+}
+
+.none{
+    opacity: 1;
+    display: none;
+}
+
+.deafult{
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;  
+}
+
+.width-max{    
+    width: 100% !important;
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+}
+
+.width{    
+    margin-top: 2.5%;
+    width: 70% !important;
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+}
+
+.black{
+    color: black;
+}
+
+.grey-letter{
+    color: grey;
+}
+
+.radius-left-side{
+    border-top-right-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+}
+
+.margin-left{
+    margin-left: 0%;
+}
+
+.btn-translate{
+    height: 2rem !important;
+    color: lightgrey;
+    text-decoration: none;
+    font-size: 1rem;
+    text-align: center;
+}
+
+.btn-translate:hover{
+    color: #d67410d9;
+}
+
+.img-background{
+    background-repeat:no-repeat !important; 
+    background-position: bottom center !important; 
+    background-size: cover !important;
+}
+
+@media (max-width:550px){
+    .img-background{
+        background-repeat:no-repeat !important; 
+        background-position: center center !important; 
+        background-size: cover !important;
+        height: 95vh !important;
+    }
+}
+
+
+/* Background */
+
+.background-xwan{
+    background: url('../img/back-xwan.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+.background-xsase{
+    background: url('../img/back-xsase.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+.background-xthentication{
+    background: url('../img/back-auth.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+.background-xnalyser{
+    background: url('../img/back-xnalyser.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+.background-xdinspection{
+    background: url('../img/back-xdinspection.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+.background-xcheck{
+    background: url('../img/back-xcheck.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+@media (max-width:900px) {
+
+    .background-xthentication{
+        background: url('../img/back-auth-mobile.png');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+    }
+
+    .background-xwan{
+        background: url('../img/back-xwan-mobile.png');
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+    }
+    .background-xsase{
+        background: url('../img/back-xsase-mobile.png');
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+    }
+    .background-xnalyser{
+        background: url('../img/back-xnalyser-mobile.png');
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+    }
+    .background-xdinspection{
+        background: url('../img/back-xdinspection-mobile.png');
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+    }
+    .background-xcheck{
+        background: url('../img/back-xcheck-mobile.png');
+        background-repeat: no-repeat;
+        background-position: center right;
+        background-size: cover;
+    }
+
+}

@@ -1,0 +1,531 @@
+<!DOCTYPE html>
+<html lang="pt-br" data-bs-theme="light">
+
+<head>
+    <!--required meta tags-->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Tags SEO -->
+    <!--twitter og-->
+    <meta name="twitter:site" content="@qd7">
+    <meta name="twitter:creator" content="@qd7">
+    <meta name="twitter:card" content="summary_large_image">
+    
+    <!--facebook og-->
+    <meta property="og:image:type" content="image/png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="600">
+    
+    <!--meta-->
+    <meta name="author" content="QD7">
+    
+    <meta name="robots" content="index, follow">
+    <meta property="publisher" content="QD7">
+    <meta property="og:locale" content="pt_BR">
+    <meta property="og:region" content="Brasil">
+    <meta property="og:author" content="QD7">
+    <meta property="og:site_name" content="QD7">
+    <meta name="twitter:card" content="summary_large_image">   
+    
+    <!-- Link da página acessada -->
+    <link rel="canonical" href="https://qd7.com.br/sase+">
+    <meta property="og:url" content="https://qd7.com.br/sase+">
+    
+    <!-- Title -->
+    <title>Sase+: Gestão de Endpoints com Controle VPN e Conexão Segura - QD7</title>
+    <meta property="og:title" content="Sase+: Gestão de Endpoints com Controle VPN e Conexão Segura - QD7">
+    <meta name="twitter:title" content="Sase+: Gestão de Endpoints com Controle VPN e Conexão Segura - QD7">
+    
+    <!-- Description -->
+    <meta name="description" content="Experimente o Sase+, a solução completa para gestão centralizada de endpoints, controle de acesso VPN e tecnologia de conexão segura sem a necessidade de fechar túneis.">
+    <meta property="og:description" content="Experimente o Sase+, a solução completa para gestão centralizada de endpoints, controle de acesso VPN e tecnologia de conexão segura sem a necessidade de fechar túneis.">
+    <meta property="og:description" content="Experimente o Sase+, a solução completa para gestão centralizada de endpoints, controle de acesso VPN e tecnologia de conexão segura sem a necessidade de fechar túneis.">
+    <meta name="twitter:description" content="Experimente o Sase+, a solução completa para gestão centralizada de endpoints, controle de acesso VPN e tecnologia de conexão segura sem a necessidade de fechar túneis.">
+    
+    <!-- Link da imagem do banner do produto -->
+    <meta name="twitter:image" content="https://qd7.com.br/assets/img/logo-xsase+.png">
+    <meta property="og:image" content="https://qd7.com.br/assets/img/logo-xsase+.png">
+    <meta name="twitter:image" content="https://qd7.com.br/assets/img/logo-xsase+.png">
+    <meta property="og:url" content="https://qd7.com.br/assets/img/logo-xsase+.png">
+    <meta name="thumbnail" content="https://qd7.com.br/assets/img/logo-xsase+.png">
+    <meta property="og:image" content="https://qd7.com.br/assets/img/logo-xsase+.pngP">
+    <meta property="og:image:secure_url" content="https://qd7.com.br/assets/img/logo-xsase+.png">
+
+    <!--favicon icon-->
+    <link rel="icon" href="../assets/img/favicon.png" type="image/png" sizes="16x16">
+
+    <!--build:css-->
+    <link rel="stylesheet" href="../assets/css/main.css">
+    <!-- endbuild -->
+
+    <!--custom css start-->
+    <link rel="stylesheet" href="../assets/css/custom.css">
+    <!--custom css end-->
+
+    <!-- Links WebComponents Start -->
+    <script defer src="../assets/js/model.js" type="module"></script>
+    <!-- Links WebComponents End -->
+
+    <!-- Google tag (gtag.js) --> 
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-7LBRT1677Y"></script> 
+    <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-7LBRT1677Y'); </script>
+    
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-MGKFMTLB');</script>
+        <!-- End Google Tag Manager -->
+
+    <script type="text/javascript" async src="https://d335luupugsy2.cloudfront.net/js/loader-scripts/1b6ecfa4-e77f-4899-9340-65b44f1edc77-loader.js"></script>
+
+    </head>
+    
+    <body>
+        
+        <!-- Google Tag Manager (noscript) -->
+        <noscript><iframe src="
+        https://www.googletagmanager.com/ns.html?id=GTM-MGKFMTLB"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <!-- End Google Tag Manager (noscript) -->
+
+
+    <!--preloader start-->
+    <div id="preloader" class="bg-light-subtle">
+        <div class="container --preloader align-items-center justify-content-center col-12">
+            <img id="logoQD7" src="../../assets/img/logo-qd7.png" alt="logo" class="img-fluid col-8 col-lg-1">
+        </div>
+    </div>
+    <!--preloader end-->
+    <div class="main-wrapper">
+
+        <!--header start-->
+        <header class="main-header position-absolute w-100" id="defPage" page="sase+/">
+
+            <nav class="navbar navbar-expand-xl navbar-dark sticky-header z-10">
+
+                <div class="container d-flex align-items-center justify-content-lg-between position-relative">
+                    <a href="../" class="navbar-brand d-flex align-items-center mb-md-0 text-decoration-none col-2">
+                        <img id="logoQD7" src="../assets/img/logo-qd7.png" alt="logo" class="img-fluid logo-white col-10 col-lg-6" />
+                        <img id="logoQD7" src="../assets/img/logo-qd7.png" alt="logo" class="img-fluid logo-color col-10 col-lg-6" />
+                    </a>
+                    <a class="navbar-toggler position-absolute right-0 border-0 " href="#offcanvasWithBackdrop">
+                        <i class="flaticon-menu text-primary" data-bs-target="#offcanvasWithBackdrop" aria-controls="offcanvasWithBackdrop"
+                            data-bs-toggle="offcanvas" role="button">
+                        </i>
+                    </a>
+
+                    <div class="collapse navbar-collapse justify-content-center">
+
+                        <ul class="nav col-12 col-md-auto justify-content-center main-menu">
+
+                            <li><a href="../" class="nav-link" id="home">Home</a></li>
+
+                            <!-- Soluções -->
+                            <li class="nav-item dropdown">
+
+                                <a class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown" aria-expanded="false">Soluções</a>
+
+                                <div class="dropdown-menu border-0 rounded-custom shadow py-0 bg-white width-fullhomepage-list-wrapper">
+
+                                    <div class="dropdown-grid rounded-custom homepage-dropdown">
+                                        
+                                        <div class="dropdown-grid-item bg-white radius-left-side">
+                                            <a id="deepInspection" href="../deep-inspection/" class="dropdown-link col-lg-12">
+                                                <span class="demo-list icon-services rounded text-white fw-bold">
+                                                    <img id="iconDeepInspection" src="../assets/img/icons/AiOutlineSchedule.png" alt="icon-schedule" class="icon-services">
+                                                </span>
+                                                <div class="dropdown-info">
+                                                    <div class="drop-title">Deep Inspection</div>
+                                                </div>
+                                            </a>
+                                            <a id="authentication" href="../authentication/" class="dropdown-link">
+                                                <span class="demo-list rounded text-white fw-bold">
+                                                    <img id="iconAuthentication" src="../assets/img/icons/AiOutlineUnlock.png" alt="icon-auth" class="icon-services">
+                                                </span>
+                                                <div class="dropdown-info">
+                                                    <div class="drop-title">Authentication</div>
+                                                    </p>    
+                                                </div>
+                                            </a>
+                                            <a id="check" href="../check" class="dropdown-link col-lg-12">
+                                                <span class="demo-list  rounded text-white fw-bold">
+                                                    <img id="iconCheck" src="../assets/img/icons/CgSearchFound.png" alt="icon-search" class="icon-services">
+                                                </span>
+                                                <div class="dropdown-info">
+                                                    <div class="drop-title">Check</div>
+                                                    <p>
+                                                    </p>
+                                                </div>
+                                            </a>
+                                            <a id="wan" href="../wan/" class="dropdown-link col-lg-12">
+                                                <span class="demo-list  rounded text-white fw-bold">
+                                                    <img id="iconWan" src="../assets/img/icons/CgMediaPodcast.png" alt="icon-Network" class="icon-services">
+                                                </span>
+                                                <div class="dropdown-info">
+                                                    <div class="drop-title">WAN</div>
+                                                </div>
+                                            </a>
+                                            <a id="analyser" href="../analyser-360/" class="dropdown-link col-lg-12">
+                                                <span class="demo-list rounded text-white fw-bold">                                                    
+                                                    <img id="iconAnalyser" src="../assets/img/icons/CgEye.png" alt="icon-eye" class="icon-services">
+                                                </span>
+                                                <div class="dropdown-info">
+                                                    <div class="drop-title">Analyser 360</div>
+                                                    </p>
+                                                </div>
+                                            </a>
+                                            <a id="sase" href="../sase+/" class="dropdown-link col-lg-12">
+                                                <span class="demo-list  rounded text-white fw-bold">
+                                                    <img id="iconSase" src="../assets/img/icons/CgListTree.png" alt="icon-proxy" class="icon-services">
+                                                </span>
+                                                <div class="dropdown-info">
+                                                    <div class="drop-title">Sase+</div>
+                                                </div>
+                                            </a>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </li>
+
+                            <!-- Parceiros -->
+                            <li class="nav-item dropdown">
+
+                                <a class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown" aria-expanded="false">Parceiros</a>
+
+                                <div class="dropdown-menu border-0 rounded-custom shadow py-0 bg-white width-fullhomepage-list-wrapper">
+
+                                    <div class="dropdown-grid rounded-custom homepage-dropdown">
+                                        
+                                        <div class="dropdown-grid-item bg-white radius-left-side">
+                                            <a id="nutanix" href="https://lp.qd7.com.br/?page_id=788" class="dropdown-link col-lg-12">
+                                                <span class="demo-list icon-services rounded text-white fw-bold">
+                                                    <img id="iconNutanix" src="../assets/img/nutanix/favicon-nutanix.png" alt="icon-schedule" class="icon-services">
+                                                </span>
+                                                <div class="dropdown-info">
+                                                    <div class="drop-title">Nutanix</div>
+                                                </div>
+                                            </a>
+                                            <a id="palo-alto" href="https://lp.qd7.com.br/?page_id=496" class="dropdown-link col-lg-12">
+                                                <span class="demo-list rounded text-white fw-bold">
+                                                    <img id="iconAuthentication" src="../assets/img/palo-alto/icon-paloalto.png" alt="icon-auth" class="icon-services">
+                                                </span>
+                                                <div class="dropdown-info">
+                                                    <div class="drop-title">Palo Alto</div>
+                                                    </p>    
+                                                </div>
+                                            </a>
+                                            <a id="akamai" href="https://lp.qd7.com.br/?page_id=544" class="dropdown-link col-lg-12">
+                                                <span class="demo-list  rounded text-white fw-bold">
+                                                    <img id="iconCheck" src="../assets/img/akamai/favicon-akamai.png" alt="icon-search" class="icon-services">
+                                                </span>
+                                                <div class="dropdown-info">
+                                                    <div class="drop-title">Akamai</div>
+                                                    <p>
+                                                    </p>
+                                                </div>
+                                            </a>
+                                            <a id="arista" href="https://lp.qd7.com.br/?page_id=447" class="dropdown-link col-lg-12">
+                                                <span class="demo-list  rounded text-white fw-bold">
+                                                    <img id="iconWan" src="../assets/img/arista/favicon-arista.png" alt="icon-Network" class="icon-services">
+                                                </span>
+                                                <div class="dropdown-info">
+                                                    <div class="drop-title">Arista</div>
+                                                </div>
+                                            </a>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </li>
+
+                            <li><a id="sobre" href="../#sobre" class="nav-link">Sobre</a></li>
+                            <li><a id="contato" href="../#contato" class="nav-link">Contato</a></li>
+                            <li><a id="news" href="https://blog.qd7.com.br" class="nav-link">News</a></li>
+
+                        </ul>
+                    </div>
+                    <div class="action-btns text-end me-5 me-lg-0 d-none d-md-block d-lg-block content-buttons-menu">
+                        <a href="javascript:void(0)" class="btn btn-link p-1 tt-theme-toggle">
+                            <div class="tt-theme-light" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-title="Light"><i class="flaticon-sun-1 fs-lg"></i></div>
+                            <div class="tt-theme-dark" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-title="Dark"><i class="flaticon-moon-1 fs-lg"></i></div>
+                        </a> 
+                        
+                        <a id="translate" href="../en/sase+/" class="btn-translate btn btn-link" style=" margin:0% 0% 0% 0% !important; padding:0% !important;">EN</a>
+                    
+                        <a id="linkApiWhatsApp" href="https://api.whatsapp.com/send?phone=5517997914198&text=Time%20qd7%20agradece%20o%20seu%20contato,%20em%20breve%20retornaremos%20sua%20mensagem" class="btn btn-link" style=" margin:0% 0% 2% 0% !important; padding:0% !important;"><i class="fab fa-whatsapp" data-bs-placement="bottom" data-bs-toggle="tooltip" data-bs-title="WhatsApp" style="font-size: 1.25rem;"></i></a>
+                        <a id="linkInstagram" href="https://www.instagram.com/qd7.cybersecurity" class="btn btn-link" style=" margin:0% 0% 2% 0% !important; padding:0% !important;"><i class="fab fa-instagram" data-bs-toggle="tooltip" data-bs-placement="bottom" data-bs-title="Instagram" style="font-size: 1.25rem;"></i></a>
+                    
+                    </div>
+                </div>
+            </nav>
+
+
+            <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasWithBackdrop">
+                <div class="offcanvas-header d-flex align-items-center mt-4">
+                    <a href="../" class="d-flex align-items-center mb-md-0 text-decoration-none">
+                        <img id="logoQD7" src="../assets/img/logo-qd7.png" alt="logo" class="img-fluid logo-color col-4 col-lg-3" />
+                    </a>
+                    <button type="button" class="close-btn text-danger" data-bs-dismiss="offcanvas" aria-label="Close">
+                        <i class="flaticon-cancel"></i>
+                    </button>
+                </div>
+                <div class="offcanvas-body z-10">
+                    <ul class="nav col-12 col-md-auto justify-content-center main-menu">
+                        <li><a id="home" href="../" class="nav-link">Home</a></li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                Soluções
+                            </a>
+                            <div class="dropdown-menu border-0 rounded-custom shadow py-0 bg-white homepage-list-wrapper">
+                                <div class="dropdown-grid rounded-custom width-full homepage-dropdown">
+                                    <div class="dropdown-grid-item w-50">
+                                        <a id="check" href="../check" class="dropdown-link col-7">
+                                            <div class="dropdown-info">
+                                                <div class="drop-title">Check</div>
+                                            </div>
+                                        </a>
+                                        <a id="deepInspection" href="../deep-inspection/" class="dropdown-link col-7">
+                                            <div class="dropdown-info">
+                                                <div class="drop-title">Deep Inspection</div>
+                                                </p>
+                                            </div>
+                                        </a>
+                                        <a id="analyser" href="../analyser-360/" class="dropdown-link col-7">
+                                            <div class="dropdown-info">
+                                                <div class="drop-title">Analyser-360</div>
+
+                                            </div>
+                                        </a>
+                                        <a id="sase" href="../sase+/" class="dropdown-link col-7">
+                                            <div class="dropdown-info">
+                                                <div class="drop-title">Sase+</div>
+                                            </div>
+                                        </a>
+                                        <a id="authentication" href="../authentication/" class="dropdown-link col-7">
+                                            <div class="dropdown-info">
+                                                <div class="drop-title">Authentication</div>
+                                                </p>
+                                            </div>
+                                        </a>
+                                        <a id="wan" href="../wan/" class="dropdown-link col-7">
+                                            <div class="dropdown-info">
+                                                <div class="drop-title">WAN</div>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                Parceiros
+                            </a>
+                            <div class="dropdown-menu border-0 rounded-custom shadow py-0 bg-white homepage-list-wrapper">
+                                <div class="dropdown-grid rounded-custom width-full homepage-dropdown">
+                                    <div class="dropdown-grid-item w-50">
+                                        <a id="nutanix" href="https://lp.qd7.com.br/?page_id=788" class="dropdown-link col-7">
+                                            <div class="dropdown-info">
+                                                <div class="drop-title">Nutanix</div>
+                                            </div>
+                                        </a>
+                                        <a id="palo-alto" href="https://lp.qd7.com.br/?page_id=496" class="dropdown-link col-7">
+                                            <div class="dropdown-info">
+                                                <div class="drop-title">Palo Alto</div>
+                                            </div>
+                                        </a>
+                                        <a id="akamai" href="https://lp.qd7.com.br/?page_id=544" class="dropdown-link col-7">
+                                            <div class="dropdown-info">
+                                                <div class="drop-title">Akamai</div>
+                                            </div>
+                                        </a>
+                                        <a id="arista" href="https://lp.qd7.com.br/?page_id=447" class="dropdown-link col-7">
+                                            <div class="dropdown-info">
+                                                <div class="drop-title">Arista</div>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li><a id="sobre" href="../#sobre" class="nav-link">Sobre</a></li>                        
+                        <li><a id="contato" href="../#contato" class="nav-link">Contato</a></li>
+                        <li><a id="news" href="https://blog.qd7.com.br" class="nav-link">News</a></li>
+                        <div class="action-btns text-start me-5 me-lg-0 d-md-block d-lg-block content-buttons-menu">
+                            <a href="javascript:void(0)" class="btn btn-link p-1 tt-theme-toggle">
+                                <div class="tt-theme-light" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-title="Light"><i class="flaticon-sun-1 fs-lg"></i></div>
+                                <div class="tt-theme-dark" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-title="Dark"><i class="flaticon-moon-1 fs-lg"></i></div>
+                            </a> 
+                            
+                            <a id="translate" href="../en/sase+/" class="btn-translate btn btn-link" style=" margin:0% 0% 0% 0% !important; padding:0% !important; color:grey;">EN</a>
+                        
+                            <a id="linkApiWhatsApp" href="https://api.whatsapp.com/send?phone=5517997914198&text=Time%20qd7%20agradece%20o%20seu%20contato,%20em%20breve%20retornaremos%20sua%20mensagem" class="btn btn-link" style=" margin:0% 0% 2% 0% !important; padding:0% !important;"><i class="fab fa-whatsapp" data-bs-placement="bottom" data-bs-toggle="tooltip" data-bs-title="WhatsApp" style="font-size: 1.25rem;"></i></a>
+                            <a id="linkInstagram" href="https://www.instagram.com/qd7.cybersecurity" class="btn btn-link" style=" margin:0% 0% 2% 0% !important; padding:0% !important;"><i class="fab fa-instagram" data-bs-toggle="tooltip" data-bs-placement="bottom" data-bs-title="Instagram" style="font-size: 1.25rem;"></i></a>
+                        
+                        </div>
+                    </ul>
+                </div>
+            </div>
+        </header>
+        <!--header end-->
+
+        <!-- Hero Start  -->
+        <section class="hero-section text-white hero-ten background-xsase" >
+            <div class="container">
+                <div class="row align-items-center main-content">
+                    <div class="col-lg-6 col-md-10">
+                        <div class="hero-content-wrap mt-5 mt-lg-0 mt-xl-0">
+                            <img src="../assets/img/logo-sase+.png" alt="Logo-xsase+" class="img-fuid mb-3" style="height: 30px">
+                            <p class="lead">
+                                Gestão centralizada de endpoints, controle de acesso a VPN, antivírus, conectados com tecnologia de conexão segura sem necessidade de fechar túnel.
+                            </p>
+                            <div class="action-btn mt-5 align-items-center d-block d-sm-flex d-lg-flex d-md-flex">
+                                <a href="#contact" class="btn btn-primary me-3">Saiba Mais</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="cyber-down-btn text-center position-relative d-none d-lg-block">
+                    <a href="#sobre" class="text-primary">
+                        <i class="fas fa-arrow-down"></i>
+                    </a>
+                </div>
+            </div>
+        </section>
+        <!-- Hero End -->
+
+        <!-- Content Start -->
+        <section class="container">
+            <div class="mb-5 p-5 justify-content-center align-items-center" id="sobre">
+                <h1 class="text-center mt-5 mb-5 text-primary p-5">Sase+</h1>
+                <ul class="row align-items-center col-12 justify-content-center">
+                    <li class="row col-12 border-bottom mb-5">
+
+                        <a class="col-12 col-xl-4 align-items-center justify-content-center text-dark-emphasis mb-5">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="currentColor" class="bi bi-windows col-12 mb-3" viewBox="0 0 16 16">
+                                <path d="M6.555 1.375 0 2.237v5.45h6.555V1.375zM0 13.795l6.555.933V8.313H0v5.482zm7.278-5.4.026 6.378L16 16V8.395H7.278zM16 0 7.33 1.244v6.414H16V0z"/>
+                            </svg>
+                            <p class="col-12 p-0 mb-0 text-center">Cliente para Windows + EMS MAC/LINUX/WINDOWS com funções diferentes.</p>
+                        </a>
+
+                        <a class="col-12 col-xl-4 align-items-center justify-content-center text-dark-emphasis mb-5">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="currentColor" class="bi bi-cloud-check-fill col-12 mb-3" viewBox="0 0 16 16">
+                                <path d="M8 2a5.53 5.53 0 0 0-3.594 1.342c-.766.66-1.321 1.52-1.464 2.383C1.266 6.095 0 7.555 0 9.318 0 11.366 1.708 13 3.781 13h8.906C14.502 13 16 11.57 16 9.773c0-1.636-1.242-2.969-2.834-3.194C12.923 3.999 10.69 2 8 2zm2.354 4.854-3 3a.5.5 0 0 1-.708 0l-1.5-1.5a.5.5 0 1 1 .708-.708L7 8.793l2.646-2.647a.5.5 0 0 1 .708.708z"/>
+                            </svg>
+                            <p class="col-12 p-0 mb-0 text-center">EMS e o forticlient completo + Forticlient EMS postura.</p>
+                        </a>
+
+                        <a class="col-12 col-xl-4 align-items-center justify-content-center text-dark-emphasis mb-5">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="currentColor" class="bi bi-person-lines-fill col-12 mb-3" viewBox="0 0 16 16">
+                                <path d="M6 8a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-5 6s-1 0-1-1 1-4 6-4 6 3 6 4-1 1-1 1H1zM11 3.5a.5.5 0 0 1 .5-.5h4a.5.5 0 0 1 0 1h-4a.5.5 0 0 1-.5-.5zm.5 2.5a.5.5 0 0 0 0 1h4a.5.5 0 0 0 0-1h-4zm2 3a.5.5 0 0 0 0 1h2a.5.5 0 0 0 0-1h-2zm0 3a.5.5 0 0 0 0 1h2a.5.5 0 0 0 0-1h-2z"/>
+                            </svg>
+                            <p class="col-12 p-0 mb-0 text-center">EMS completo + gestão centralizada dos clientes.</p>
+                        </a>
+
+                        <a class="col-12 col-xl-4 align-items-center justify-content-center text-dark-emphasis mb-5">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="currentColor" class="bi bi-database-fill col-12 mb-3" viewBox="0 0 16 16">
+                                <path d="M3.904 1.777C4.978 1.289 6.427 1 8 1s3.022.289 4.096.777C13.125 2.245 14 2.993 14 4s-.875 1.755-1.904 2.223C11.022 6.711 9.573 7 8 7s-3.022-.289-4.096-.777C2.875 5.755 2 5.007 2 4s.875-1.755 1.904-2.223Z"/>
+                                <path d="M2 6.161V7c0 1.007.875 1.755 1.904 2.223C4.978 9.71 6.427 10 8 10s3.022-.289 4.096-.777C13.125 8.755 14 8.007 14 7v-.839c-.457.432-1.004.751-1.49.972C11.278 7.693 9.682 8 8 8s-3.278-.307-4.51-.867c-.486-.22-1.033-.54-1.49-.972Z"/>
+                                <path d="M2 9.161V10c0 1.007.875 1.755 1.904 2.223C4.978 12.711 6.427 13 8 13s3.022-.289 4.096-.777C13.125 11.755 14 11.007 14 10v-.839c-.457.432-1.004.751-1.49.972-1.232.56-2.828.867-4.51.867s-3.278-.307-4.51-.867c-.486-.22-1.033-.54-1.49-.972Z"/>
+                                <path d="M2 12.161V13c0 1.007.875 1.755 1.904 2.223C4.978 15.711 6.427 16 8 16s3.022-.289 4.096-.777C13.125 14.755 14 14.007 14 13v-.839c-.457.432-1.004.751-1.49.972-1.232.56-2.828.867-4.51.867s-3.278-.307-4.51-.867c-.486-.22-1.033-.54-1.49-.972Z"/>
+                              </svg>
+                            <p class="col-12 p-0 mb-0  text-center">Inventário da máquina + Atualização automática  + VM on premisses das licenças.</p>
+                        </a>
+
+                        <a class="col-12 col-xl-4 align-items-center justify-content-center text-dark-emphasis mb-5">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="currentColor" class="bi bi-arrow-repeat col-12 mb-3" viewBox="0 0 16 16">
+                                <path d="M11.534 7h3.932a.25.25 0 0 1 .192.41l-1.966 2.36a.25.25 0 0 1-.384 0l-1.966-2.36a.25.25 0 0 1 .192-.41zm-11 2h3.932a.25.25 0 0 0 .192-.41L2.692 6.23a.25.25 0 0 0-.384 0L.342 8.59A.25.25 0 0 0 .534 9z"/>
+                                <path fill-rule="evenodd" d="M8 3c-1.552 0-2.94.707-3.857 1.818a.5.5 0 1 1-.771-.636A6.002 6.002 0 0 1 13.917 7H12.9A5.002 5.002 0 0 0 8 3zM3.1 9a5.002 5.002 0 0 0 8.757 2.182.5.5 0 1 1 .771.636A6.002 6.002 0 0 1 2.083 9H3.1z"/>
+                            </svg>
+                            <p class="col-12 p-0 mb-0  text-center">ZTNA a partir do FORTIOS 7 + POSTURA DE VPN</p>
+                        </a>
+
+                        <a class="col-12 col-xl-4 align-items-center justify-content-center text-dark-emphasis mb-5">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="currentColor" class="bi bi-clouds-fill col-12 mb-3" viewBox="0 0 16 16">
+                                <path d="M11.473 9a4.5 4.5 0 0 0-8.72-.99A3 3 0 0 0 3 14h8.5a2.5 2.5 0 1 0-.027-5z"/>
+                                <path d="M14.544 9.772a3.506 3.506 0 0 0-2.225-1.676 5.502 5.502 0 0 0-6.337-4.002 4.002 4.002 0 0 1 7.392.91 2.5 2.5 0 0 1 1.17 4.769z"/>
+                              </svg>
+                            <p class="col-12 p-0 mb-0 text-center">Gerência Centralizada dos EndPoints + gerenciamento na CLOUD.</p>
+                        </a>
+
+                        <a class="col-12 col-xl-4 align-items-center justify-content-center text-dark-emphasis mb-5">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="currentColor" class="bi bi-file-earmark-check-fill col-12 mb-3" viewBox="0 0 16 16">
+                                <path d="M9.293 0H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2V4.707A1 1 0 0 0 13.707 4L10 .293A1 1 0 0 0 9.293 0zM9.5 3.5v-2l3 3h-2a1 1 0 0 1-1-1zm1.354 4.354-3 3a.5.5 0 0 1-.708 0l-1.5-1.5a.5.5 0 1 1 .708-.708L7.5 9.793l2.646-2.647a.5.5 0 0 1 .708.708z"/>
+                            </svg>
+                            <p class="col-12 p-0 mb-0 text-center">EMS também aplica postura para VPN, realizando autenticações e verificação de condições de segurança.</p>
+                        </a>
+
+                        <a class="col-12 col-xl-4 align-items-center justify-content-center text-dark-emphasis mb-5">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="currentColor" class="bi bi-save2 col-12 mb-3" viewBox="0 0 16 16">
+                                <path d="M2 1a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V2a1 1 0 0 0-1-1H9.5a1 1 0 0 0-1 1v4.5h2a.5.5 0 0 1 .354.854l-2.5 2.5a.5.5 0 0 1-.708 0l-2.5-2.5A.5.5 0 0 1 5.5 6.5h2V2a2 2 0 0 1 2-2H14a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V2a2 2 0 0 1 2-2h2.5a.5.5 0 0 1 0 1H2z"/>
+                            </svg>
+                            <p class="col-12 p-0 mb-0 text-center">ZTNA relaiza identificação para acesso da aplicacao interna, e conexao sem precisar usar tunel.</p>
+                        </a>
+
+                        <a class="col-12 col-xl-4 align-items-center justify-content-center text-dark-emphasis mb-5">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="currentColor" class="bi bi-key-fill col-12 mb-3" viewBox="0 0 16 16">
+                                <path d="M3.5 11.5a3.5 3.5 0 1 1 3.163-5H14L15.5 8 14 9.5l-1-1-1 1-1-1-1 1-1-1-1 1H6.663a3.5 3.5 0 0 1-3.163 2zM2.5 9a1 1 0 1 0 0-2 1 1 0 0 0 0 2z"/>
+                              </svg>
+                            <p class="col-12 p-0 mb-0 text-center">Para acessar essa aplicação ele precisa ser autenticado, incluindo máquina, antivírus, etc.</p>
+                        </a>
+
+                        <a class="col-12 col-xl-4 align-items-center justify-content-center text-dark-emphasis mb-5">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="currentColor" class="bi bi-broadcast-pin col-12 mb-3" viewBox="0 0 16 16">
+                                <path d="M3.05 3.05a7 7 0 0 0 0 9.9.5.5 0 0 1-.707.707 8 8 0 0 1 0-11.314.5.5 0 0 1 .707.707zm2.122 2.122a4 4 0 0 0 0 5.656.5.5 0 1 1-.708.708 5 5 0 0 1 0-7.072.5.5 0 0 1 .708.708zm5.656-.708a.5.5 0 0 1 .708 0 5 5 0 0 1 0 7.072.5.5 0 1 1-.708-.708 4 4 0 0 0 0-5.656.5.5 0 0 1 0-.708zm2.122-2.12a.5.5 0 0 1 .707 0 8 8 0 0 1 0 11.313.5.5 0 0 1-.707-.707 7 7 0 0 0 0-9.9.5.5 0 0 1 0-.707zM6 8a2 2 0 1 1 2.5 1.937V15.5a.5.5 0 0 1-1 0V9.937A2 2 0 0 1 6 8z"/>
+                            </svg>
+                            <p class="col-12 p-0 mb-0 text-center">FORTIGATE VIRA UM PROXY + Fechar o tunel e fazer split não é necessário.</p>
+                        </a>
+
+                        <a class="col-12 col-xl-4 align-items-center justify-content-center text-dark-emphasis mb-5">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="currentColor" class="bi bi-cloud-download-fill col-12 mb-3" viewBox="0 0 16 16">
+                                <path fill-rule="evenodd" d="M8 0a5.53 5.53 0 0 0-3.594 1.342c-.766.66-1.321 1.52-1.464 2.383C1.266 4.095 0 5.555 0 7.318 0 9.366 1.708 11 3.781 11H7.5V5.5a.5.5 0 0 1 1 0V11h4.188C14.502 11 16 9.57 16 7.773c0-1.636-1.242-2.969-2.834-3.194C12.923 1.999 10.69 0 8 0zm-.354 15.854a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 14.293V11h-1v3.293l-2.146-2.147a.5.5 0 0 0-.708.708l3 3z"/>
+                            </svg>
+                            <p class="col-12 p-0 mb-0 text-center">Todo PUSH realizado deverá passar pelo firewall.</p>
+                        </a>
+
+                        <a class="col-12 col-xl-4 align-items-center justify-content-center text-dark-emphasis mb-5">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="currentColor" class="bi bi-file-earmark-lock-fill col-12 mb-3" viewBox="0 0 16 16">
+                                <path d="M7 7a1 1 0 0 1 2 0v1H7V7zM6 9.3c0-.042.02-.107.105-.175A.637.637 0 0 1 6.5 9h3a.64.64 0 0 1 .395.125c.085.068.105.133.105.175v2.4c0 .042-.02.107-.105.175A.637.637 0 0 1 9.5 12h-3a.637.637 0 0 1-.395-.125C6.02 11.807 6 11.742 6 11.7V9.3z"/>
+                                <path d="M9.293 0H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2V4.707A1 1 0 0 0 13.707 4L10 .293A1 1 0 0 0 9.293 0zM9.5 3.5v-2l3 3h-2a1 1 0 0 1-1-1zM10 7v1.076c.54.166 1 .597 1 1.224v2.4c0 .816-.781 1.3-1.5 1.3h-3c-.719 0-1.5-.484-1.5-1.3V9.3c0-.627.46-1.058 1-1.224V7a2 2 0 1 1 4 0z"/>
+                            </svg>
+                            <p class="col-12 p-0 mb-0 text-center">Define o APPLICATION CONTROL E POLITICAS DE FIREWALL para a ponta do usuário.</p>
+                        </a>
+                    </li>
+                    <a class="btn btn-primary me-xl-3 col-12 col-md-4" href="#contact">Contratar ></a>
+                </ul>
+            </div>
+        </section>
+        <!-- Content End -->
+
+        <!-- Contact Start -->
+        <?php  include '../assets/php/includes/form.php'?>
+        <!-- Contact End -->
+
+        <!-- Footer Start -->
+        <?php include '../assets/php/includes/footer.php'?>
+        <!-- Footer End -->
+
+    </div>
+
+
+
+
+    <!--build:js-->
+    <script src="../assets/js/vendors/jquery-3.6.0.min.js"></script>
+    <script src="../assets/js/vendors/bootstrap.bundle.min.js"></script>
+    <script src="../assets/js/vendors/swiper-bundle.min.js"></script>
+    <script src="../assets/js/vendors/jquery.magnific-popup.min.js"></script>
+    <script src="../assets/js/vendors/parallax.min.js"></script>
+    <script src="../assets/js/vendors/aos.js"></script>
+    <script src="../assets/js/vendors/massonry.min.js"></script>
+    <script src="../assets/js/app.js"></script>
+    <!--endbuild
+</body>
+
+</html>

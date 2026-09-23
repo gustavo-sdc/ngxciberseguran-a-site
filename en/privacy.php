@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="pt-br" data-bs-theme="light">
+
+<head>
+    <!--required meta tags-->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!--twitter og-->
+    <meta name="twitter:site" content="@NGX">
+    <meta name="twitter:creator" content="@NGX">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="NGX | Privacy Notice">
+    <meta name="twitter:description" content="">
+    <meta name="twitter:image" content="#">
+
+    <!--facebook og-->
+    <meta property="og:url" content="#">
+    <meta name="twitter:title" content="NGX | Privacy Notice">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="#">
+    <meta property="og:image:secure_url" content="#">
+    <meta property="og:image:type" content="image/png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="600">
+
+    <!--meta-->
+    <meta name="description" content="">
+    <meta name="author" content="NGX">
+
+    <!--favicon icon-->
+    <link rel="icon" href="assets/img/favicon.png" type="image/png" sizes="16x16">
+
+    <!--title-->
+    <title>NGX | Privacy Notice</title>
+
+    <!--build:css-->
+    <link rel="stylesheet" href="assets/css/main.css">
+    <!-- endbuild -->
+
+    <!--custom css start-->
+    <link rel="stylesheet" href="assets/css/custom.css">
+    <!--custom css end-->
+
+    <!-- Links WebComponents Start -->
+    <script defer src="assets/js/model.js" type='module'></script>
+    <!-- Links WebComponents End -->
+
+    <!-- Google tag (gtag.js) --> 
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-7LBRT1677Y"></script> 
+    <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-7LBRT1677Y'); </script>
+    
+    <script type="text/javascript" async src="https://d335luupugsy2.cloudfront.net/js/loader-scripts/1b6ecfa4-e77f-4899-9340-65b44f1edc77-loader.js"></script>
+
+
+    <!-- Google Tag Manager -->
+    <script>
+        (function(w,d,s,l,i){
+            w[l]=w[l]||[];
+            w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});
+            
+            var 
+                f=d.getElementsByTagName(s)[0],
+                j=d.createElement(s),
+                dl= l !='dataLayer' ? '&l='+l :'';
+                j.async=true;
+                j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;
+                
+                f.parentNode.insertBefore(j,f);
+        })
+        (window,document,'script','dataLayer','GTM-TTJSVXGX');
+    </script>
+    <!-- End Google Tag Manager -->
+    
+</head>
+
+<body>
+    
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TTJSVXGX"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <!--preloader start-->
+    <div id="preloader" class="bg-light-subtle">
+        <div class="container --preloader align-items-center justify-content-center col-12">
+            <img id="logoQD7" src="../../assets/img/logo-qd7.png" alt="logo" class="img-fluid col-8 col-lg-1">
+        </div>
+    </div>
+    <!--preloader end-->
+    <div class="main-wrapper">
+
+        <!--header start-->
+        <header class="main-header position-absolute w-100" id="defPage" page="privacidade.php">
+
+            <nav class="navbar navbar-expand-xl navbar-dark sticky-header z-10">
+
+                <div class="container d-flex align-items-center justify-content-lg-between position-relative">
+                    <a href="../" class="navbar-brand d-flex align-items-center mb-md-0 text-decoration-none col-2">
+                        <img id="logoQD7" src="../assets/img/logo-qd7.png" alt="logo" class="img-fluid logo-white col-10 col-lg-6" />
+                        <img id="logoQD7" src="../assets/img/logo-qd7.png" alt="logo" class="img-fluid logo-color col-10 col-lg-6" />
+                    </a>
+                    <a class="navbar-toggler position-absolute right-0 border-0 " href="#offcanvasWithBackdrop">
+                        <i class="flaticon-menu text-primary" data-bs-target="#offcanvasWithBackdrop" aria-controls="offcanvasWithBackdrop"
+                            data-bs-toggle="offcanvas" role="button">
+                        </i>
+                    </a>
+                    <div class="clearfix">
+                
+                    </div>
+
+                    <div class="collapse navbar-collapse justify-content-center">
+
+                        <ul class="nav col-12 col-md-auto justify-content-center main-menu">
+
+                            <li><a href="../" class="nav-link" id="home">Home</a></li>
+
+                            <li class="nav-item dropdown">
+
+                                <a class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown" aria-expanded="false">Solutions</a>
+
+                                <div class="dropdown-menu border-0 rounded-custom shadow py-0 bg-white width-fullhomepage-list-wrapper">
+
+                                    <div class="dropdown-grid rounded-custom homepage-dropdown">
+                                        
+                                        <div class="dropdown-grid-item bg-white radius-left-side">
+                                            <a id="deepInspection" href="../deep-inspection/" class="dropdown-link col-lg-12">
+                                                <span class="demo-list icon-services rounded text-white fw-bold">
+                                                    <img id="iconDeepInspection" src="../assets/img/icons/AiOutlineSchedule.png" alt="icon-schedule" class="icon-services">
+                                                </span>
+                                                <div class="dropdown-info">
+                                                    <div class="drop-title">Deep Inspection</div>
+                                                </div>
+                                            </a>
+                                            <a id="authentication" href="../authentication/" class="dropdown-link">
+                                                <span class="demo-list rounded text-white fw-bold">
+                                                    <img id="iconAuthentication" src="../assets/img/icons/AiOutlineUnlock.png" alt="icon-auth" class="icon-services">
+                                                </span>
+                                                <div class="dropdown-info">
+                                                    <div class="drop-title">Authentication</div>
+                                                    </p>    
+                                                </div>
+                                            </a>
+                                            <a id="check" href="../check" class="dropdown-link col-lg-12">
+                                                <span class="demo-list  rounded text-white fw-bold">
+                                                    <img id="iconCheck" src="../assets/img/icons/CgSearchFound.png" alt="icon-search" class="icon-services">
+                                                </span>
+                                                <div class="dropdown-info">
+                                                    <div class="drop-title">Check</div>
+                                                    <p>
+                                                    </p>
+                                                </div>
+                                            </a>
+                                            <a id="wan" href="../wan/" class="dropdown-link col-lg-12">
+                                                <span class="demo-list  rounded text-white fw-bold">
+                                                    <img id="iconWan" src="../assets/img/icons/CgMediaPodcast.png" alt="icon-Network" class="icon-services">
+                                                </span>
+                                                <div class="dropdown-info">
+                                                    <div class="drop-title">WAN</div>
+                                                </div>
+                                            </a>
+                                            <a id="analyser" href="../analyser-360/" class="dropdown-link col-lg-12">
+                                                <span class="demo-list rounded text-white fw-bold">                                                    
+                                                    <img id="iconAnalyser" src="../assets/img/icons/CgEye.png" alt="icon-eye" class="icon-services">
+                                                </span>
+                                                <div class="dropdown-info">
+                                                    <div class="drop-title">Analyser 360</div>
+                                                    </p>
+                                                </div>
+                                            </a>
+                                            <a id="sase" href="../sase+/" class="dropdown-link col-lg-12">
+                                                <span class="demo-list  rounded text-white fw-bold">
+                                                    <img id="iconSase" src="../assets/img/icons/CgListTree.png" alt="icon-proxy" class="icon-services">
+                                                </span>
+                                                <div class="dropdown-info">
+                                                    <div class="drop-title">Sase+</div>
+                                                </div>
+                                            </a>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </li>
+
+                            <li><a id="sobre" href="../#sobre" class="nav-link">About</a></li>
+                            <li><a id="contato" href="../#contato" class="nav-link">Contact</a></li>
+                            <li><a id="news" href="https://blog.qd7.com.br" class="nav-link">News</a></li>
+
+                        </ul>
+                    </div>
+                    <div class="action-btns text-end me-5 me-lg-0 d-none d-md-block d-lg-block content-buttons-menu">
+                        <a href="javascript:void(0)" class="btn btn-link p-1 tt-theme-toggle">
+                            <div class="tt-theme-light" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-title="Light"><i class="flaticon-sun-1 fs-lg"></i></div>
+                            <div class="tt-theme-dark" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-title="Dark"><i class="flaticon-moon-1 fs-lg"></i></div>
+                        </a> 
+                        
+                        <a id="translate" href="../en/sase+/" class="btn-translate btn btn-link" style=" margin:0% 0% 0% 0% !important; padding:0% !important;">PT-BR</a>
+                    
+                        <a id="linkApiWhatsApp" href="https://api.whatsapp.com/send?phone=5517997914198&text=Time%20qd7%20agradece%20o%20seu%20contato,%20em%20breve%20retornaremos%20sua%20mensagem" class="btn btn-link" style=" margin:0% 0% 2% 0% !important; padding:0% !important;"><i class="fab fa-whatsapp" data-bs-placement="bottom" data-bs-toggle="tooltip" data-bs-title="WhatsApp" style="font-size: 1.25rem;"></i></a>
+                        <a id="linkInstagram" href="https://www.instagram.com/qd7.cybersecurity" class="btn btn-link" style=" margin:0% 0% 2% 0% !important; padding:0% !important;"><i class="fab fa-instagram" data-bs-toggle="tooltip" data-bs-placement="bottom" data-bs-title="Instagram" style="font-size: 1.25rem;"></i></a>
+                    
+                    </div>
+                </div>
+            </nav>
+
+
+            <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasWithBackdrop">
+                <div class="offcanvas-header d-flex align-items-center mt-4">
+                    <a href="../" class="d-flex align-items-center mb-md-0 text-decoration-none">
+                        <img id="logoQD7" src="../assets/img/logo-qd7.png" alt="logo" class="img-fluid logo-color col-4 col-lg-3" />
+                    </a>
+                    <button type="button" class="close-btn text-danger" data-bs-dismiss="offcanvas" aria-label="Close">
+                        <i class="flaticon-cancel"></i>
+                    </button>
+                </div>
+                <div class="offcanvas-body z-10">
+                    <ul class="nav col-12 col-md-auto justify-content-center main-menu">
+                        <li><a id="home" href="../" class="nav-link">Home</a></li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                Solutions
+                            </a>
+                            <div class="dropdown-menu border-0 rounded-custom shadow py-0 bg-white homepage-list-wrapper">
+                                <div class="dropdown-grid rounded-custom width-full homepage-dropdown">
+                                    <div class="dropdown-grid-item">
+                                        <a id="check" href="../check" class="dropdown-link col-12">
+                                            <div class="dropdown-info">
+                                                <div class="drop-title">Check</div>
+                                            </div>
+                                        </a>
+                                        <a id="deepInspection" href="../deep-inspection/" class="dropdown-link col-12">
+                                            <div class="dropdown-info">
+                                                <div class="drop-title">Deep Inspection</div>
+                                                </p>
+                                            </div>
+                                        </a>
+                                        <a id="analyser" href="../analyser-360/" class="dropdown-link col-12">
+                                            <div class="dropdown-info">
+                                                <div class="drop-title">Analyser-360</div>
+
+                                            </div>
+                                        </a>
+                                        <a id="sase" href="../sase+/" class="dropdown-link col-12">
+                                            <div class="dropdown-info">
+                                                <div class="drop-title">Sase+</div>
+                                            </div>
+                                        </a>
+                                        <a id="authentication" href="../authentication/" class="dropdown-link col-12">
+                                            <div class="dropdown-info">
+                                                <div class="drop-title">Authentication</div>
+                                                </p>
+                                            </div>
+                                        </a>
+                                        <a id="wan" href="../wan/" class="dropdown-link col-12">
+                                            <div class="dropdown-info">
+                                                <div class="drop-title">WAN</div>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li><a id="sobre" href="../#sobre" class="nav-link">About</a></li>                        
+                        <li><a id="contato" href="../#contato" class="nav-link">Contact</a></li>
+                        <li><a id="news" href="https://blog.qd7.com.br" class="nav-link">News</a></li>
+                        <div class="action-btns text-start me-5 me-lg-0 d-md-block d-lg-block content-buttons-menu">
+                            <a href="javascript:void(0)" class="btn btn-link p-1 tt-theme-toggle">
+                                <div class="tt-theme-light" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-title="Light"><i class="flaticon-sun-1 fs-lg"></i></div>
+                                <div class="tt-theme-dark" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-title="Dark"><i class="flaticon-moon-1 fs-lg"></i></div>
+                            </a> 
+                            
+                            <a id="translate" href="../en/sase+/" class="btn-translate btn btn-link" style=" margin:0% 0% 0% 0% !important; padding:0% !important; color:grey;">PT-BR</a>
+                        
+                            <a id="linkApiWhatsApp" href="https://api.whatsapp.com/send?phone=5517997914198&text=Time%20qd7%20agradece%20o%20seu%20contato,%20em%20breve%20retornaremos%20sua%20mensagem" class="btn btn-link" style=" margin:0% 0% 2% 0% !important; padding:0% !important;"><i class="fab fa-whatsapp" data-bs-placement="bottom" data-bs-toggle="tooltip" data-bs-title="WhatsApp" style="font-size: 1.25rem;"></i></a>
+                            <a id="linkInstagram" href="https://www.instagram.com/qd7.cybersecurity" class="btn btn-link" style=" margin:0% 0% 2% 0% !important; padding:0% !important;"><i class="fab fa-instagram" data-bs-toggle="tooltip" data-bs-placement="bottom" data-bs-title="Instagram" style="font-size: 1.25rem;"></i></a>
+                        
+                        </div>
+                    </ul>
+                </div>
+            </div>
+        </header>
+        <!--header end-->
+
+        <!-- Privacity Start -->
+        <section class="container">
+            <div class="row align-items-center justify-content-center col-11 m-5" id="sobre" style="height:80vh; margin-top: 100px !important;">
+                <h2 class="text-primary h2 text-center">Privacy Notice</h2>
+
+                <p>The purpose of this document is, simply and briefly, to make it clear to you, the user who relates to us in any way, that we are responsible for your personal data and that we only ask for information that is strictly necessary to achieve defined and legitimate purposes in accordance with the laws in force, all because we know that disrespectful practices in this context can expose people's intimacy.</p>
+                <br>
+                <p>As we are a company dedicated to the B2B market, we do not have access to a large volume of personal information. We also make it clear that the concern with training for employees and partners is constant, so feel safe when sharing your data with us.</p>
+                <br>
+                <p>If you have any questions about practices and/or how your data is handled, please contact us for further clarification.</p>
+                <br>
+                <p>We also clarify that our company shares your data with others to ensure the best and safest experience for you.</p>
+            </div>
+
+        </section>
+        <!-- Privacity End -->
+
+        <!-- Contact Start -->
+        <?php include './assets/php/includes/form.php'?>
+        <!-- Contact End -->
+
+        <!-- Footer Start -->
+        <?php include './assets/php/includes/footer.php'?>
+        <!-- Footer End -->
+    </div>
+
+    <!--build:js-->
+    <script src="assets/js/vendors/jquery-3.6.0.min.js"></script>
+    <script src="assets/js/vendors/bootstrap.bundle.min.js"></script>
+    <script src="assets/js/vendors/swiper-bundle.min.js"></script>
+    <script src="assets/js/vendors/jquery.magnific-popup.min.js"></script>
+    <script src="assets/js/vendors/parallax.min.js"></script>
+    <script src="assets/js/vendors/aos.js"></script>
+    <script src="assets/js/vendors/massonry.min.js"></script>
+    <script src="assets/js/app.js"></script>
+    <!--endbuild-->
+</body>
+
+</html>

@@ -1,0 +1,444 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="light">
+
+<head>
+    <!--required meta tags-->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Tags SEO -->
+    <!--twitter og-->
+    <meta name="twitter:site" content="@qd7">
+    <meta name="twitter:creator" content="@qd7">
+    <meta name="twitter:card" content="summary_large_image">
+    
+    <!--facebook og-->
+    <meta property="og:image:type" content="image/png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="600">
+    
+    <!--meta-->
+    <meta name="author" content="QD7">
+    
+    <meta name="robots" content="index, follow">
+    <meta property="publisher" content="QD7">
+    <meta property="og:locale" content="pt_BR">
+    <meta property="og:region" content="Brasil">
+    <meta property="og:author" content="QD7">
+    <meta property="og:site_name" content="QD7">
+    <meta name="twitter:card" content="summary_large_image">   
+    
+    <!-- Link da página acessada -->
+    <link rel="canonical" href="https://qd7.com.br/sase+">
+    <meta property="og:url" content="https://qd7.com.br/sase+">
+    
+    <!-- Title -->
+    <title>FortiNet</title>
+    <meta property="og:title" content="">
+    <meta name="twitter:title" content="">
+    
+    <!-- Description -->
+    <meta name="description" content="">
+    <meta property="og:description" content="">
+    <meta property="og:description" content="">
+    <meta name="twitter:description" content="">
+    
+    <!-- Link da imagem do banner do produto -->
+    <meta name="twitter:image" content="https://qd7.com.br/assets/img/logo-xsase+.png">
+    <meta property="og:image" content="https://qd7.com.br/assets/img/logo-xsase+.png">
+    <meta name="twitter:image" content="https://qd7.com.br/assets/img/logo-xsase+.png">
+    <meta property="og:url" content="https://qd7.com.br/assets/img/logo-xsase+.png">
+    <meta name="thumbnail" content="https://qd7.com.br/assets/img/logo-xsase+.png">
+    <meta property="og:image" content="https://qd7.com.br/assets/img/logo-xsase+.pngP">
+    <meta property="og:image:secure_url" content="https://qd7.com.br/assets/img/logo-xsase+.png">
+
+    <!--favicon icon-->
+    <link id="favicon" rel="icon" href="../assets/img/favicon.png" type="image/png" sizes="16x16">
+
+    <!--build:css-->
+    <link id="styleMain" rel="stylesheet" href="../assets/css/main.css">
+    <!-- endbuild -->
+
+    <!--custom css start-->
+    <link id="styleCustom" rel="stylesheet" href="../assets/css/custom.css">
+    <!--custom css end-->
+
+    <!-- Links WebComponents Start -->
+    <script defer src="../assets/js/model.js" type="module"></script>
+    <!-- Links WebComponents End -->
+
+    <!-- Google tag (gtag.js) --> 
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-7LBRT1677Y"></script> 
+    <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-7LBRT1677Y'); </script>
+    
+    <script type="text/javascript" async src="https://d335luupugsy2.cloudfront.net/js/loader-scripts/1b6ecfa4-e77f-4899-9340-65b44f1edc77-loader.js"></script>
+
+
+    <!-- Google Tag Manager -->
+    <script>
+        (function(w,d,s,l,i){
+            w[l]=w[l]||[];
+            w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});
+            
+            var 
+                f=d.getElementsByTagName(s)[0],
+                j=d.createElement(s),
+                dl= l !='dataLayer' ? '&l='+l :'';
+                j.async=true;
+                j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;
+                
+                f.parentNode.insertBefore(j,f);
+        })
+        (window,document,'script','dataLayer','GTM-TTJSVXGX');
+    </script>
+    <!-- End Google Tag Manager -->
+    
+</head>
+
+<body>
+    
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TTJSVXGX"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+
+    <!--preloader start-->
+    <div id="preloader" class="bg-light-subtle">
+        <div class="container --preloader align-items-center justify-content-center col-12">
+            <img id="logoQD7" src="../../assets/img/logo-qd7.png" alt="logo" class="img-fluid col-8 col-lg-1">
+        </div>
+    </div>
+    <!--preloader end-->
+    <div class="main-wrapper">
+
+        <!--header start-->
+        <header class="main-header position-absolute w-100" id="defPage" page="fortinet/">
+
+            <nav class="navbar navbar-expand-xl navbar-dark sticky-header z-10">
+    
+                <div class="container d-flex align-items-center justify-content-lg-between position-relative">
+                    <a href="../" class="navbar-brand d-flex align-items-center mb-md-0 text-decoration-none col-2">
+                        <img id="logoQD7" src="../assets/img/logo-qd7.png" alt="logo" class="img-fluid logo-white col-10 col-lg-6" />
+                        <img id="logoQD7" src="../assets/img/logo-qd7.png" alt="logo" class="img-fluid logo-color col-10 col-lg-6" />
+                    </a>
+                    <a class="navbar-toggler position-absolute right-0 border-0 " href="#offcanvasWithBackdrop">
+                        <i class="flaticon-menu text-primary" data-bs-target="#offcanvasWithBackdrop" aria-controls="offcanvasWithBackdrop"
+                            data-bs-toggle="offcanvas" role="button">
+                        </i>
+                    </a>
+                    <div class="clearfix">
+                
+                    </div>
+
+                    <div class="collapse navbar-collapse justify-content-center">
+
+                        <ul class="nav col-12 col-md-auto justify-content-center main-menu">
+
+                            <li><a href="/" class="nav-link" id="home">Home</a></li>
+
+                            <li class="nav-item dropdown">
+
+                                <a class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown" aria-expanded="false">Solutions</a>
+
+                                <div class="dropdown-menu border-0 rounded-custom shadow py-0 bg-white width-fullhomepage-list-wrapper">
+
+                                    <div class="dropdown-grid rounded-custom homepage-dropdown">
+                                        
+                                        <div class="dropdown-grid-item bg-white radius-left-side">
+                                            <a id="deepInspection" href="/" class="dropdown-link col-lg-12">
+                                                <span class="demo-list icon-services rounded text-white fw-bold">
+                                                    <img id="iconDeepInspection" src="../assets/img/icons/AiOutlineSchedule.png" alt="icon-schedule" class="icon-services">
+                                                </span>
+                                                <div class="dropdown-info">
+                                                    <div class="drop-title">Deep Inspection</div>
+                                                </div>
+                                            </a>
+                                            <a id="authentication" href="/" class="dropdown-link">
+                                                <span class="demo-list rounded text-white fw-bold">
+                                                    <img id="iconAuthentication" src="../assets/img/icons/AiOutlineUnlock.png" alt="icon-auth" class="icon-services">
+                                                </span>
+                                                <div class="dropdown-info">
+                                                    <div class="drop-title">Authentication</div>
+                                                    </p>    
+                                                </div>
+                                            </a>
+                                            <a id="check" href="/" class="dropdown-link col-lg-12">
+                                                <span class="demo-list  rounded text-white fw-bold">
+                                                    <img id="iconCheck" src="../assets/img/icons/CgSearchFound.png" alt="icon-search" class="icon-services">
+                                                </span>
+                                                <div class="dropdown-info">
+                                                    <div class="drop-title">Check</div>
+                                                    <p>
+                                                    </p>
+                                                </div>
+                                            </a>
+                                            <a id="wan" href="/" class="dropdown-link col-lg-12">
+                                                <span class="demo-list  rounded text-white fw-bold">
+                                                    <img id="iconWan" src="../assets/img/icons/CgMediaPodcast.png" alt="icon-Network" class="icon-services">
+                                                </span>
+                                                <div class="dropdown-info">
+                                                    <div class="drop-title">WAN</div>
+                                                </div>
+                                            </a>
+                                            <a id="analyser" href="/" class="dropdown-link col-lg-12">
+                                                <span class="demo-list rounded text-white fw-bold">                                                    
+                                                    <img id="iconAnalyser" src="../assets/img/icons/CgEye.png" alt="icon-eye" class="icon-services">
+                                                </span>
+                                                <div class="dropdown-info">
+                                                    <div class="drop-title">Analyser 360</div>
+                                                    </p>
+                                                </div>
+                                            </a>
+                                            <a id="sase" href="/" class="dropdown-link col-lg-12">
+                                                <span class="demo-list  rounded text-white fw-bold">
+                                                    <img id="iconSase" src="../assets/img/icons/CgListTree.png" alt="icon-proxy" class="icon-services">
+                                                </span>
+                                                <div class="dropdown-info">
+                                                    <div class="drop-title">Sase+</div>
+                                                </div>
+                                            </a>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </li>
+
+                            <li><a id="fortinet" href="/" class="nav-link">Fortinet</a></li>
+                            <li><a id="sobre" href="/" class="nav-link">About</a></li>
+                            <li><a id="contato" href="/" class="nav-link">Contact</a></li>
+                            <li><a id="news" href="https://blog.qd7.com.br" class="nav-link">News</a></li>
+
+                        </ul>
+                    </div>
+                    <div class="action-btns text-end me-5 me-lg-0 d-none d-md-block d-lg-block content-buttons-menu">
+                        <a href="javascript:void(0)" class="btn btn-link p-1 tt-theme-toggle">
+                            <div class="tt-theme-light" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-title="Light"><i class="flaticon-sun-1 fs-lg"></i></div>
+                            <div class="tt-theme-dark" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-title="Dark"><i class="flaticon-moon-1 fs-lg"></i></div>
+                        </a> 
+                        
+                        <a id="translate" href="/" class="btn-translate btn btn-link" style=" margin:0% 0% 0% 0% !important; padding:0% !important;">EN</a>
+                    
+                        <a id="linkApiWhatsApp" href="https://api.whatsapp.com/send?phone=5517997914198&text=Time%20qd7%20agradece%20o%20seu%20contato,%20em%20breve%20retornaremos%20sua%20mensagem" class="btn btn-link" style=" margin:0% 0% 2% 0% !important; padding:0% !important;"><i class="fab fa-whatsapp" data-bs-placement="bottom" data-bs-toggle="tooltip" data-bs-title="WhatsApp" style="font-size: 1.25rem;"></i></a>
+                        <a id="linkInstagram" href="https://www.instagram.com/qd7.cybersecurity" class="btn btn-link" style=" margin:0% 0% 2% 0% !important; padding:0% !important;"><i class="fab fa-instagram" data-bs-toggle="tooltip" data-bs-placement="bottom" data-bs-title="Instagram" style="font-size: 1.25rem;"></i></a>
+                    
+                    </div>
+                </div>
+            </nav>
+            <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasWithBackdrop">
+                <div class="offcanvas-header d-flex align-items-center mt-4">
+                    <a href="../" class="d-flex align-items-center mb-md-0 text-decoration-none">
+                        <img id="logoQD7" src="../assets/img/logo-qd7.png" alt="logo" class="img-fluid logo-color col-4 col-lg-3" />
+                    </a>
+                    <button type="button" class="close-btn text-danger" data-bs-dismiss="offcanvas" aria-label="Close">
+                        <i class="flaticon-cancel"></i>
+                    </button>
+                </div>
+                <div class="offcanvas-body z-10">
+                    <ul class="nav col-12 col-md-auto justify-content-center main-menu">
+                        <li><a id="home" href="/" class="nav-link">Home</a></li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                Solutions
+                            </a>
+                            <div class="dropdown-menu border-0 rounded-custom shadow py-0 bg-white homepage-list-wrapper">
+                                <div class="dropdown-grid rounded-custom width-full homepage-dropdown">
+                                    <div class="dropdown-grid-item">
+                                        <a id="check" href="/" class="dropdown-link col-12">
+                                            <div class="dropdown-info">
+                                                <div class="drop-title">Check</div>
+                                            </div>
+                                        </a>
+                                        <a id="deepInspection" href="/" class="dropdown-link col-12">
+                                            <div class="dropdown-info">
+                                                <div class="drop-title">Deep Inspection</div>
+                                                </p>
+                                            </div>
+                                        </a>
+                                        <a id="analyser" href="/" class="dropdown-link col-12">
+                                            <div class="dropdown-info">
+                                                <div class="drop-title">Analyser-360</div>
+
+                                            </div>
+                                        </a>
+                                        <a id="sase" href="/" class="dropdown-link col-12">
+                                            <div class="dropdown-info">
+                                                <div class="drop-title">Sase+</div>
+                                            </div>
+                                        </a>
+                                        <a id="authentication" href="/" class="dropdown-link col-12">
+                                            <div class="dropdown-info">
+                                                <div class="drop-title">Authentication</div>
+                                                </p>
+                                            </div>
+                                        </a>
+                                        <a id="wan" href="/" class="dropdown-link col-12">
+                                            <div class="dropdown-info">
+                                                <div class="drop-title">WAN</div>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li><a id="fortinet" href="/" class="nav-link">Fortinet</a></li>
+                        <li><a id="sobre" href="/" class="nav-link">About</a></li>                        
+                        <li><a id="contato" href="/" class="nav-link">Contact</a></li>
+                        <li><a id="news" href="https://blog.qd7.com.br" class="nav-link">News</a></li>
+                        <div class="action-btns text-start me-5 me-lg-0 d-md-block d-lg-block content-buttons-menu">
+                            <a href="javascript:void(0)" class="btn btn-link p-1 tt-theme-toggle">
+                                <div class="tt-theme-light" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-title="Light"><i class="flaticon-sun-1 fs-lg"></i></div>
+                                <div class="tt-theme-dark" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-title="Dark"><i class="flaticon-moon-1 fs-lg"></i></div>
+                            </a> 
+                            
+                            <a id="translate" href="/" class="btn-translate btn btn-link" style=" margin:0% 0% 0% 0% !important; padding:0% !important; color:grey;">PT-BR</a>
+                        
+                            <a id="linkApiWhatsApp" href="https://api.whatsapp.com/send?phone=5517997914198&text=Time%20qd7%20agradece%20o%20seu%20contato,%20em%20breve%20retornaremos%20sua%20mensagem" class="btn btn-link" style=" margin:0% 0% 2% 0% !important; padding:0% !important;"><i class="fab fa-whatsapp" data-bs-placement="bottom" data-bs-toggle="tooltip" data-bs-title="WhatsApp" style="font-size: 1.25rem;"></i></a>
+                            <a id="linkInstagram" href="https://www.instagram.com/qd7.cybersecurity" class="btn btn-link" style=" margin:0% 0% 2% 0% !important; padding:0% !important;"><i class="fab fa-instagram" data-bs-toggle="tooltip" data-bs-placement="bottom" data-bs-title="Instagram" style="font-size: 1.25rem;"></i></a>
+                        
+                        </div>
+                    </ul>
+                </div>
+            </div>
+
+        </header>
+        <!--header end-->
+
+        <!-- Hero Start  -->
+        <section class="hero-section text-white hero-ten" style="height:100vh ;background-image: url('../assets/img/fortigate/back-fortinet.png'); background-position: center center; background-size: cover; background-repeat: no-repeat;">
+            <div class="container">
+                <div class="row align-items-center main-content">
+                    <div class="col-lg-6 col-md-10">
+                        <div class="hero-content-wrap mt-5 mt-lg-0 mt-xl-0">
+                            <img src="../assets/img/fortigate/fortinet-footer-logo.svg" alt="Logo-xsase+" class="img-fuid mb-3" style="height: 30px; background-color:white; padding:5px; box-sizing: border-box; border-radius: 5px;">
+                            <p class="lead">
+                                With decades of stability, Fortinet is the only cyber security company listed on Nasdaq 100 and S&P 500.
+                            </p>
+                            <div class="action-btn mt-5 align-items-center d-block d-sm-flex d-lg-flex d-md-flex">
+                                <a href="#contact" class="btn btn-primary me-3">Saiba Mais</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="cyber-down-btn text-center position-relative d-none d-lg-block">
+                    <a href="#sobre" class="text-primary">
+                        <i class="fas fa-arrow-down"></i>
+                    </a>
+                </div>
+            </div>
+        </section>
+        <!-- Hero End -->
+
+        <!-- Content Start -->
+        <section class="container">
+            <div class="mb-5 p-5 justify-content-center align-items-center" id="sobre">
+                <h1 class="text-center mt-5 mb-5 text-primary p-5">Fortinet</h1>
+                <ul class="row align-items-center col-12 justify-content-center border-bottom pb-5">
+                    <li class="row col-12 align-items-center justify-content-center">
+
+                        <div class="row col-12 col-xl-4 align-items-center justify-content-center">
+                            <a class="col-12align-items-center justify-content-center text-dark-emphasis mb-5" href="./fortigate-70f/">
+                                <img src="../assets/img/fortigate/fortigate-70f.png" alt="fortigate image" class="img-fluid ratio border-none">
+                                <p class="col-12 p-0 mb-0 text-center fw-bold fs-3">FortiGate-70F</p>
+                                <p class="col-12 p-0 mb-0 text-center fw-bold fs-3 text-primary">Price on request</p>
+                                <p class="text-center fs-5 border-bottom pb-3" href="./fortigate-70f/">View more ></p>
+    
+                                <p class="col-12 p-0 mb-0 text-center fw-normal fs-6">FortiGate-100F</p>
+                                <p class="col-12 p-0 mb-0 text-center fw-normal fs-6 pb-3">01 Year - UTP</p>
+                            </a>
+                        </div>
+
+                        <div class="row col-12 col-xl-4 align-items-center justify-content-center">
+                            <a class="col-12align-items-center justify-content-center text-dark-emphasis mb-5" href="./fortigate-100f/">
+                                <img src="../assets/img/fortigate/FortiGate-100F.png" alt="fortigate image" class="img-fluid ratio border-none">
+                                <p class="col-12 p-0 mb-0 text-center fw-bold fs-3">FortiGate-100F</p>
+                                <p class="col-12 p-0 mb-0 text-center fw-bold fs-3 text-primary">Price on request</p>
+                                <p class="text-center fs-5 border-bottom pb-3" href="./fortigate-100f/">View more ></p>
+
+                                <p class="col-12 p-0 mb-0 text-center fw-normal fs-6">FortiGate-100F</p>
+                                <p class="col-12 p-0 mb-0 text-center fw-normal fs-6 pb-3">01 Year - UTP</p>
+                            </a>
+                        </div>
+
+                        <div class="row col-12 col-xl-4 align-items-center justify-content-center">
+                            <a class="col-12row align-items-center justify-content-center text-dark-emphasis mb-5" href="./fortigate-200f/">
+                                <img src="../assets/img/fortigate/fortigate-200f.png" alt="fortigate image" class="img-fluid ratio border-none">
+                                <p class="col-12 p-0 mb-0 text-center fw-bold fs-3">FortiGate-200F</p>
+                                <p class="col-12 p-0 mb-0 text-center fw-bold fs-3 text-primary">Price on request</p>
+                                <p class="text-center fs-5 border-bottom pb-3" href="./fortigate-200f/">View more ></p>
+
+                                <p class="col-12 p-0 mb-0 text-center fw-normal fs-6">FortiGate-200F</p>
+                                <p class="col-12 p-0 mb-0 text-center fw-normal fs-6 pb-3">01 Year - UTP</p>
+                            </a>
+                        </div>
+
+                        <div class="row col-12 col-xl-4 align-items-center justify-content-center">
+                            <a class="col-12align-items-center justify-content-center text-dark-emphasis mb-5" href="./fortigate-1000f/">
+                                <img src="../assets/img/fortigate/fortigate-1000f.png" alt="fortigate image" class="img-fluid ratio border-none">
+                                <p class="col-12 p-0 mb-0 text-center fw-bold fs-3">FortiGate-1000F</p>
+                                <p class="col-12 p-0 mb-0 text-center fw-bold fs-3 text-primary">Price on request</p>
+                                <p class="text-center fs-5 border-bottom pb-3" href="./fortigate-1000f/">View more ></p>
+    
+                                <p class="col-12 p-0 mb-0 text-center fw-normal fs-6">FortiGate-1000F</p>
+                                <p class="col-12 p-0 mb-0 text-center fw-normal fs-6 pb-3">01 Year - UTP</p>
+                            </a>
+                        </div>
+
+                        <div class="row col-12 col-xl-4 align-items-center justify-content-center">
+                            <a class="col-12align-items-center justify-content-center text-dark-emphasis mb-5" href="./fortigate-1800f/">
+                                <img src="../assets/img/fortigate/FortiGate-1800f.png" alt="fortigate image" class="img-fluid ratio border-none">
+                                <p class="col-12 p-0 mb-0 text-center fw-bold fs-3">FortiGate-1800F</p>
+                                <p class="col-12 p-0 mb-0 text-center fw-bold fs-3 text-primary">Price on request</p>
+                                <p class="text-center fs-5 border-bottom pb-3" href="./fortigate-1800f/">View more ></p>
+
+                                <p class="col-12 p-0 mb-0 text-center fw-normal fs-6">FortiGate-1800F</p>
+                                <p class="col-12 p-0 mb-0 text-center fw-normal fs-6 pb-3">01 Year - UTP</p>
+                            </a>
+                        </div>
+
+                        <div class="row col-12 col-xl-4 align-items-center justify-content-center">
+                            <a class="col-12row align-items-center justify-content-center text-dark-emphasis mb-5" href="./fortigate-90g/">
+                                <img src="../assets/img/fortigate/fortigate-90g.png" alt="fortigate image" class="img-fluid ratio border-none">
+                                <p class="col-12 p-0 mb-0 text-center fw-bold fs-3">FortiGate-90G</p>
+                                <p class="col-12 p-0 mb-0 text-center fw-bold fs-3 text-primary">Price on request</p>
+                                <p class="text-center fs-5 border-bottom pb-3" href="./fortigate-90g/">View more ></p>
+
+                                <p class="col-12 p-0 mb-0 text-center fw-normal fs-6">FortiGate-90G</p>
+                                <p class="col-12 p-0 mb-0 text-center fw-normal fs-6 pb-3">01 Year - UTP</p>
+                            </a>
+                        </div>
+
+                    </li>
+                </ul>
+            </div>
+        </section>
+        <!-- Content End -->
+
+        <!-- Contact Start -->
+        <?php include '../assets/php/includes/form.php'?>
+        <!-- Contact End -->
+
+        <!-- Footer Start -->
+        <?php include '../assets/php/includes/footer.php'?>
+        <!-- Footer End -->
+
+    </div>
+
+
+
+
+    <!--build:js-->
+    <script src="../assets/js/vendors/jquery-3.6.0.min.js"></script>
+    <script src="../assets/js/vendors/bootstrap.bundle.min.js"></script>
+    <script src="../assets/js/vendors/swiper-bundle.min.js"></script>
+    <script src="../assets/js/vendors/jquery.magnific-popup.min.js"></script>
+    <script src="../assets/js/vendors/parallax.min.js"></script>
+    <script src="../assets/js/vendors/aos.js"></script>
+    <script src="../assets/js/vendors/massonry.min.js"></script>
+    <script src="../assets/js/app.js"></script>
+    <!--endbuild
+</body>
+
+</html>
